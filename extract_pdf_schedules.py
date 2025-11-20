@@ -17,10 +17,19 @@ import argparse
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional, Tuple
 import sys
+try:
+    from zoneinfo import ZoneInfo  # Python 3.9+
+except ImportError:
+    # Fallback per Python < 3.9
+    try:
+        from backports.zoneinfo import ZoneInfo
+    except ImportError:
+        # Fallback finale: usa UTC e aggiungi offset manualmente
+        ZoneInfo = None
 
 def parse_time(time_str: str) -> Optional[tuple]:
     """
-    Parsa una stringa orario (es: "09:00-11:00" o "9:00-11:00")
+    Parsa una stringa orario (es: "09:00-11:00" o "9.00-11.00" o "14.00-18.00")
     Restituisce (ora_inizio, minuto_inizio, ora_fine, minuto_fine) o None
     """
     if not time_str:
@@ -110,7 +119,9 @@ def extract_group_from_text(text: str) -> Optional[str]:
 def parse_cell_content(cell_text: str) -> List[Dict]:
     """
     Parsa il contenuto di una cella della tabella settimanale
-    Formato atteso:
+    Una cella può contenere più lezioni separate da newline.
+    DEBUG: Questa funzione viene chiamata
+    Formato per ogni lezione:
     - Orario (es: "14.00-18.00")
     - Corso (es: "GRAPHIC DESIGN 2")
     - Gruppo (es: "Gruppo C" o null)
@@ -127,7 +138,146 @@ def parse_cell_content(cell_text: str) -> List[Dict]:
         return []
     
     lessons_from_cell = []
+    current_lesson = {}
+    i = 0
     
+    while i < len(lines):
+        line = lines[i]
+        
+        # Se la riga è un orario, inizia una nuova lezione
+        time_range = parse_time(line)
+        if time_range:
+            # Se c'era una lezione precedente, aggiungila
+            if current_lesson and current_lesson.get('time_range'):
+                lessons_from_cell.append(current_lesson)
+            
+            # Inizia nuova lezione
+            current_lesson = {
+                'time_range': time_range,
+                'corso': None,
+                'gruppo': None,
+                'docente': None,
+                'aula': None
+            }
+            i += 1
+            continue
+        
+        # Se non abbiamo ancora un orario, salta
+        if not current_lesson.get('time_range'):
+            i += 1
+            continue
+        
+        line_upper = line.upper()
+        
+        # Cerca gruppo
+        if not current_lesson['gruppo']:
+            gruppo = extract_group_from_text(line)
+            if gruppo:
+                current_lesson['gruppo'] = gruppo
+                i += 1
+                continue
+        
+        # Cerca professore (contiene "Prof" in qualsiasi forma) - rimuoviamo tutto e prendiamo solo il cognome
+        line_lower = line.lower().strip()
+        is_prof_line = 'prof' in line_lower
+        
+        if not current_lesson['docente'] and is_prof_line:
+            # Rimuovi completamente tutto quello che contiene "Prof" (qualsiasi variante)
+            # e prendi solo il resto (il cognome)
+            docente = line.strip()
+            
+            # Rimuovi tutto fino al cognome: rimuovi "Prof", "Prof.", "Prof.ssa", "Prof ssa", etc.
+            # Pattern che rimuove tutto fino al cognome (dopo eventuali spazi/punti dopo "Prof" e "ssa")
+            # Ordine importante: prima rimuovi varianti con "ssa", poi quelle semplici
+            # Usa pattern senza ^ per catturare anche se non è all'inizio della stringa
+            docente = re.sub(r'.*?Prof\.?\s*ssa\s+', '', docente, flags=re.IGNORECASE).strip()  # "Prof. ssa Nome" -> "Nome"
+            docente = re.sub(r'.*?Prof\.ssa\s+', '', docente, flags=re.IGNORECASE).strip()  # "Prof.ssa Nome" -> "Nome"
+            docente = re.sub(r'.*?Prof\s+ssa\s+', '', docente, flags=re.IGNORECASE).strip()  # "Prof ssa Nome" -> "Nome"
+            docente = re.sub(r'.*?Prof\.\s+', '', docente, flags=re.IGNORECASE).strip()  # "Prof. Nome" -> "Nome"
+            docente = re.sub(r'.*?Prof\s+', '', docente, flags=re.IGNORECASE).strip()  # "Prof Nome" -> "Nome"
+            
+            # Rimuovi anche eventuali "ssa" all'inizio che potrebbero essere rimasti
+            docente = re.sub(r'^ssa\s+', '', docente, flags=re.IGNORECASE).strip()
+            docente = re.sub(r'^ssa/', '', docente, flags=re.IGNORECASE).strip()
+            
+            # Rimuovi eventuali parentesi o note
+            docente = re.sub(r'\([^)]*\)', '', docente).strip()
+            # Rimuovi spazi multipli
+            docente = re.sub(r'\s+', ' ', docente).strip()
+            
+            # Se dopo aver rimosso "Prof" non resta niente o resta solo "ssa", controlla la riga successiva
+            docente_clean = docente.lower().strip()
+            invalid_docente = (not docente or 
+                             docente_clean in ['ssa', 'ssa/', 'ssa/ ', 'ssa\n', 'ssa ', ''] or
+                             len(docente_clean) <= 2)
+            
+            if invalid_docente and i + 1 < len(lines):
+                next_line = lines[i + 1].strip()
+                # Se la prossima riga non è un'aula, gruppo, orario o corso, è probabilmente il cognome del docente
+                next_line_upper = next_line.upper()
+                is_not_aula = not any(keyword in next_line_upper for keyword in ['LAB', 'CONFERENCE', 'MAGNA', 'DIGITAL', 'HUB', 'VISUAL', 'PHOTO', '3D', 'VIA', 'FINLANDIA', 'PITTURA', 'MOVIE', 'HALL'])
+                is_not_group = not extract_group_from_text(next_line)
+                is_not_time = not parse_time(next_line)
+                # Non è un corso se contiene solo caratteri comuni per nomi (lettere, spazi, apostrofi, slash)
+                is_likely_name = bool(re.match(r'^[A-Za-zÀ-ÿ\s\'\-/]+$', next_line)) and len(next_line) > 2
+                
+                if next_line and is_not_aula and is_not_group and is_not_time and is_likely_name:
+                    # Prendi il cognome dalla riga successiva
+                    docente = next_line.strip()
+                    i += 1  # Salta anche la riga successiva
+            
+            # Se abbiamo un cognome valido, salvalo
+            if docente and len(docente.strip()) > 2:
+                current_lesson['docente'] = docente.strip()
+            i += 1
+            continue
+        
+        # Cerca aula (contiene "lab", "Conference", "Magna", "Digital", etc.)
+        if not current_lesson['aula'] and any(keyword in line_upper for keyword in ['LAB', 'CONFERENCE', 'MAGNA', 'DIGITAL', 'HUB', 'VISUAL', 'PHOTO', '3D']):
+            aula = line.strip()
+            # Rimuovi "(portatili)" se presente ma mantieni il testo
+            aula = re.sub(r'\s*\(portatili\)', '', aula, flags=re.IGNORECASE).strip()
+            current_lesson['aula'] = aula
+            i += 1
+            continue
+        
+        # Il corso è la prima riga significativa dopo l'orario che non è gruppo/professore/aula
+        # Può anche essere un numero (anno) che ignoriamo
+        if not current_lesson['corso']:
+            # Ignora numeri soli (probabilmente anno)
+            if line.isdigit() and len(line) == 1:
+                i += 1
+                continue
+            # Ignora se è gruppo
+            if extract_group_from_text(line):
+                i += 1
+                continue
+            # Altrimenti è il corso (mantieni case originale, non tutto maiuscolo)
+            current_lesson['corso'] = line.strip()
+        
+        i += 1
+    
+    # Aggiungi l'ultima lezione se presente
+    if current_lesson and current_lesson.get('time_range') and current_lesson.get('corso'):
+        lessons_from_cell.append(current_lesson)
+    
+    return lessons_from_cell
+
+def get_semester_dates(semestre: int, base_year: int = 2024) -> tuple:
+    """
+    Restituisce le date di inizio e fine semestre
+    Assumiamo:
+    - 1° semestre: inizio ottobre, fine gennaio
+    - 2° semestre: inizio febbraio, fine maggio
+    """
+    if semestre == 1:
+        start = datetime(base_year, 10, 1)  # 1 ottobre
+        end = datetime(base_year + 1, 1, 31)  # 31 gennaio
+    else:
+        start = datetime(base_year + 1, 2, 1)  # 1 febbraio
+        end = datetime(base_year + 1, 5, 31)  # 31 maggio
+    
+    return start, end
 
 def get_weekday_number(day_name: str) -> int:
     """
@@ -174,7 +324,9 @@ def extract_lessons_from_pdf(pdf_path: str, indirizzo: str, anno: int, semestre:
                 print(f"\n📋 Pagina {page_num + 1}: Trovate {len(tables)} tabelle")
                 
                 for table_idx, table in enumerate(tables):
+                    print(f"  🔍 Processando tabella {table_idx + 1} ({len(table)} righe)")
                     if not table or len(table) < 2:
+                        print(f"    ⚠️  Tabella troppo piccola o vuota")
                         continue
                     
                     # Cerca header con giorni della settimana
@@ -200,71 +352,89 @@ def extract_lessons_from_pdf(pdf_path: str, indirizzo: str, anno: int, semestre:
                                     break
                     
                     print(f"  ✅ Giorni trovati: {list(day_columns.keys())}")
+                    print(f"  🔍 DEBUG: header_row = {header_row}, len(table) = {len(table)}")
+                    print(f"  🔍 DEBUG: Continuo con ricerca semestre...")
                     
-                    # Verifica se questa è la tabella del semestre corretto
-                    # Cerca "1° SEM" o "2° SEM" nella prima colonna o header
-                    is_correct_semester = False
-                    for row in table[:header_row + 3]:
-                        if row:
-                            row_text = ' '.join(str(cell) for cell in row if cell).upper()
-                            if semestre == 1 and ('1° SEM' in row_text or '1 SEM' in row_text or 'PRIMO SEM' in row_text):
-                                is_correct_semester = True
-                                break
-                            elif semestre == 2 and ('2° SEM' in row_text or '2 SEM' in row_text or 'SECONDO SEM' in row_text):
-                                is_correct_semester = True
-                                break
+                    # Trova la riga con il semestre corretto
+                    # Cerca "1° SEM" o "2° SEM" nella prima colonna (dopo l'header)
+                    semester_row = None
+                    search_range = range(header_row + 1, min(header_row + 10, len(table)))
+                    print(f"  🔍 Cercando semestre {semestre} nelle righe {list(search_range)}")
                     
-                    if not is_correct_semester and len(tables) > 1:
-                        print(f"  ⏭️  Tabella {table_idx + 1}: Salto (semestre diverso)")
+                    for row_idx in search_range:
+                        row = table[row_idx]
+                        if not row or len(row) == 0:
+                            continue
+                        
+                        # Controlla la prima colonna per il semestre
+                        first_cell = str(row[0]) if row[0] else ""
+                        first_cell_upper = first_cell.upper()
+                        print(f"    Riga {row_idx}: prima colonna = {repr(first_cell)}")
+                        
+                        # Gestisci anche formati con newline (es: "1°\nSEM.")
+                        first_cell_normalized = first_cell_upper.replace('\n', ' ').replace('  ', ' ')
+                        
+                        if semestre == 1 and ('1° SEM' in first_cell_normalized or '1 SEM' in first_cell_normalized or 'PRIMO SEM' in first_cell_normalized or '1° SEM.' in first_cell_normalized):
+                            semester_row = row_idx
+                            break
+                        elif semestre == 2 and ('2° SEM' in first_cell_normalized or '2 SEM' in first_cell_normalized or 'SECONDO SEM' in first_cell_normalized or '2° SEM.' in first_cell_normalized):
+                            semester_row = row_idx
+                            break
+                    
+                    if semester_row is None:
+                        print(f"  ⏭️  Tabella {table_idx + 1}: Semestre {semestre} non trovato")
                         continue
                     
-                    # Estrai lezioni da ogni colonna giorno
+                    print(f"  ✅ Semestre {semestre} trovato alla riga {semester_row}")
+                    
+                    # Estrai lezioni da ogni colonna giorno dalla riga del semestre
+                    semester_data_row = table[semester_row]
                     for day_name, col_idx in day_columns.items():
                         weekday = get_weekday_number(day_name)
                         if weekday == -1:
                             continue
                         
-                        # Estrai celle per questo giorno (dopo l'header)
-                        for row_idx in range(header_row + 1, len(table)):
-                            row = table[row_idx]
-                            if not row or col_idx >= len(row):
-                                continue
+                        if col_idx >= len(semester_data_row):
+                            continue
+                        
+                        cell_text = str(semester_data_row[col_idx]) if semester_data_row[col_idx] else ""
+                        if not cell_text.strip():
+                            continue
+                        
+                        # Parsa contenuto cella (può contenere più lezioni)
+                        cell_lessons = parse_cell_content(cell_text)
+                        
+                        if not cell_lessons:
+                            continue
+                        
+                        # Genera eventi per ogni settimana del semestre
+                        current_date = semester_start
+                        while current_date <= semester_end:
+                            # Trova il primo giorno della settimana corrispondente
+                            days_until = (weekday - current_date.weekday()) % 7
+                            lesson_date = current_date + timedelta(days=days_until)
                             
-                            cell_text = str(row[col_idx]) if row[col_idx] else ""
-                            if not cell_text.strip():
-                                continue
+                            if lesson_date > semester_end:
+                                break
                             
-                            # Parsa contenuto cella
-                            cell_lessons = parse_cell_content(cell_text)
+                            # Crea evento per ogni lezione nella cella
+                            for cell_lesson in cell_lessons:
+                                time_range = cell_lesson['time_range']
+                                event = create_lesson_event(
+                                    corso=cell_lesson['corso'],
+                                    anno=anno,
+                                    gruppo=cell_lesson['gruppo'],
+                                    aula=cell_lesson['aula'],
+                                    docente=cell_lesson['docente'],
+                                    date=lesson_date,
+                                    start_time=(time_range[0], time_range[1]),
+                                    end_time=(time_range[2], time_range[3]),
+                                    note=None
+                                )
+                                lessons.append(event)
                             
-                            # Genera eventi per ogni settimana del semestre
-                            current_date = semester_start
-                            while current_date <= semester_end:
-                                # Trova il primo giorno della settimana corrispondente
-                                days_until = (weekday - current_date.weekday()) % 7
-                                lesson_date = current_date + timedelta(days=days_until)
-                                
-                                if lesson_date > semester_end:
-                                    break
-                                
-                                # Crea evento per ogni lezione nella cella
-                                for cell_lesson in cell_lessons:
-                                    time_range = cell_lesson['time_range']
-                                    event = create_lesson_event(
-                                        corso=cell_lesson['corso'],
-                                        anno=anno,
-                                        gruppo=cell_lesson['gruppo'],
-                                        aula=cell_lesson['aula'],
-                                        docente=cell_lesson['docente'],
-                                        date=lesson_date,
-                                        start_time=(time_range[0], time_range[1]),
-                                        end_time=(time_range[2], time_range[3]),
-                                        note=None
-                                    )
-                                    lessons.append(event)
-                                
-                                # Passa alla settimana successiva
-                                current_date += timedelta(days=7)
+                            # Passa alla settimana successiva
+                            current_date += timedelta(days=7)
             
             print(f"\n✅ Estratte {len(lessons)} lezioni totali")
             
@@ -281,19 +451,36 @@ def create_lesson_event(corso: str, anno: int, gruppo: Optional[str], aula: Opti
     """
     Crea un evento lezione nel formato JSON richiesto
     """
-    # Combina data e orario
-    start_datetime = date.replace(hour=start_time[0], minute=start_time[1])
-    end_datetime = date.replace(hour=end_time[0], minute=end_time[1])
+    # IMPORTANTE: Gli orari nel PDF sono già in ora locale italiana ma vengono salvati con 1 ora in meno.
+    # Aggiungiamo 1 ora per correggere il fuso orario.
+    # Le ore sono sempre in ora locale italiana (CET/CEST), quindi aggiungiamo 1 ora per compensare
+    start_datetime_naive = date.replace(hour=start_time[0], minute=start_time[1], second=0, microsecond=0)
+    end_datetime_naive = date.replace(hour=end_time[0], minute=end_time[1], second=0, microsecond=0)
     
-    # Formato ISO8601 con timezone
-    start_iso = start_datetime.strftime("%Y-%m-%dT%H:%M:%S%z")
-    if not start_iso.endswith('+02:00') and not start_iso.endswith('+01:00'):
-        # Aggiungi timezone se mancante (assumiamo Italia, +02:00 per ora legale)
-        start_iso = start_datetime.strftime("%Y-%m-%dT%H:%M:%S+02:00")
+    # Aggiungi 1 ora per correggere il fuso orario
+    start_datetime_naive = start_datetime_naive + timedelta(hours=1)
+    end_datetime_naive = end_datetime_naive + timedelta(hours=1)
     
-    end_iso = end_datetime.strftime("%Y-%m-%dT%H:%M:%S%z")
-    if not end_iso.endswith('+02:00') and not end_iso.endswith('+01:00'):
-        end_iso = end_datetime.strftime("%Y-%m-%dT%H:%M:%S+02:00")
+    # Converti in timezone-aware usando Europe/Rome (gestisce automaticamente ora legale/solare)
+    if ZoneInfo:
+        rome_tz = ZoneInfo("Europe/Rome")
+        start_datetime = start_datetime_naive.replace(tzinfo=rome_tz)
+        end_datetime = end_datetime_naive.replace(tzinfo=rome_tz)
+        
+        # Formato ISO8601 con timezone corretto
+        start_iso = start_datetime.isoformat()
+        end_iso = end_datetime.isoformat()
+    else:
+        # Fallback: calcola offset manualmente (approximativo)
+        # Ottobre-Marzo: +01:00 (ora solare), Aprile-Settembre: +02:00 (ora legale)
+        month = start_datetime_naive.month
+        if 4 <= month <= 9:
+            offset = "+02:00"  # Ora legale
+        else:
+            offset = "+01:00"  # Ora solare
+        
+        start_iso = start_datetime_naive.strftime(f"%Y-%m-%dT%H:%M:%S{offset}")
+        end_iso = end_datetime_naive.strftime(f"%Y-%m-%dT%H:%M:%S{offset}")
     
     return {
         "corso": corso,
