@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+*.swo
+*~
+*.pyc
+__pycache__/
+output.txt
+test-*.json
+*-s1.json
+*-s2.json
+
