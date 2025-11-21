@@ -6,7 +6,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-04T09:30:00+02:00",
     "end": "2025-11-04T12:30:00+02:00",
     "note": null
@@ -18,7 +18,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-04T09:30:00+02:00",
     "end": "2025-11-04T12:30:00+02:00",
     "note": null
@@ -30,7 +30,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-04T09:30:00+02:00",
     "end": "2025-11-04T12:30:00+02:00",
     "note": null
@@ -42,7 +42,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-04T13:00:00+02:00",
     "end": "2025-11-04T16:00:00+02:00",
     "note": null
@@ -54,7 +54,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-04T13:00:00+02:00",
     "end": "2025-11-04T16:00:00+02:00",
     "note": null
@@ -66,7 +66,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-04T13:00:00+02:00",
     "end": "2025-11-04T16:00:00+02:00",
     "note": null
@@ -78,7 +78,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-11T09:30:00+02:00",
     "end": "2025-11-11T12:30:00+02:00",
     "note": null
@@ -90,7 +90,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-11T09:30:00+02:00",
     "end": "2025-11-11T12:30:00+02:00",
     "note": null
@@ -102,7 +102,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-11T09:30:00+02:00",
     "end": "2025-11-11T12:30:00+02:00",
     "note": null
@@ -114,7 +114,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-11T13:00:00+02:00",
     "end": "2025-11-11T16:00:00+02:00",
     "note": null
@@ -126,7 +126,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-11T13:00:00+02:00",
     "end": "2025-11-11T16:00:00+02:00",
     "note": null
@@ -138,7 +138,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-11T13:00:00+02:00",
     "end": "2025-11-11T16:00:00+02:00",
     "note": null
@@ -150,7 +150,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-18T09:30:00+02:00",
     "end": "2025-11-18T12:30:00+02:00",
     "note": null
@@ -162,7 +162,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-18T09:30:00+02:00",
     "end": "2025-11-18T12:30:00+02:00",
     "note": null
@@ -174,7 +174,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-18T09:30:00+02:00",
     "end": "2025-11-18T12:30:00+02:00",
     "note": null
@@ -186,7 +186,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-18T13:00:00+02:00",
     "end": "2025-11-18T16:00:00+02:00",
     "note": null
@@ -198,7 +198,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-18T13:00:00+02:00",
     "end": "2025-11-18T16:00:00+02:00",
     "note": null
@@ -210,7 +210,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-18T13:00:00+02:00",
     "end": "2025-11-18T16:00:00+02:00",
     "note": null
@@ -222,7 +222,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-25T09:30:00+02:00",
     "end": "2025-11-25T12:30:00+02:00",
     "note": null
@@ -234,7 +234,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-25T09:30:00+02:00",
     "end": "2025-11-25T12:30:00+02:00",
     "note": null
@@ -246,7 +246,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-25T09:30:00+02:00",
     "end": "2025-11-25T12:30:00+02:00",
     "note": null
@@ -258,7 +258,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-11-25T13:00:00+02:00",
     "end": "2025-11-25T16:00:00+02:00",
     "note": null
@@ -270,7 +270,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-25T13:00:00+02:00",
     "end": "2025-11-25T16:00:00+02:00",
     "note": null
@@ -282,7 +282,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-25T13:00:00+02:00",
     "end": "2025-11-25T16:00:00+02:00",
     "note": null
@@ -294,7 +294,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-02T09:30:00+02:00",
     "end": "2025-12-02T12:30:00+02:00",
     "note": null
@@ -306,7 +306,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-02T09:30:00+02:00",
     "end": "2025-12-02T12:30:00+02:00",
     "note": null
@@ -318,7 +318,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-02T09:30:00+02:00",
     "end": "2025-12-02T12:30:00+02:00",
     "note": null
@@ -330,7 +330,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-02T13:00:00+02:00",
     "end": "2025-12-02T16:00:00+02:00",
     "note": null
@@ -342,7 +342,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-02T13:00:00+02:00",
     "end": "2025-12-02T16:00:00+02:00",
     "note": null
@@ -354,7 +354,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-02T13:00:00+02:00",
     "end": "2025-12-02T16:00:00+02:00",
     "note": null
@@ -366,7 +366,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-09T09:30:00+02:00",
     "end": "2025-12-09T12:30:00+02:00",
     "note": null
@@ -378,7 +378,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-09T09:30:00+02:00",
     "end": "2025-12-09T12:30:00+02:00",
     "note": null
@@ -390,7 +390,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-09T09:30:00+02:00",
     "end": "2025-12-09T12:30:00+02:00",
     "note": null
@@ -402,7 +402,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-09T13:00:00+02:00",
     "end": "2025-12-09T16:00:00+02:00",
     "note": null
@@ -414,7 +414,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-09T13:00:00+02:00",
     "end": "2025-12-09T16:00:00+02:00",
     "note": null
@@ -426,7 +426,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-09T13:00:00+02:00",
     "end": "2025-12-09T16:00:00+02:00",
     "note": null
@@ -438,7 +438,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-16T09:30:00+02:00",
     "end": "2025-12-16T12:30:00+02:00",
     "note": null
@@ -450,7 +450,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-16T09:30:00+02:00",
     "end": "2025-12-16T12:30:00+02:00",
     "note": null
@@ -462,7 +462,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-16T09:30:00+02:00",
     "end": "2025-12-16T12:30:00+02:00",
     "note": null
@@ -474,7 +474,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-16T13:00:00+02:00",
     "end": "2025-12-16T16:00:00+02:00",
     "note": null
@@ -486,7 +486,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-16T13:00:00+02:00",
     "end": "2025-12-16T16:00:00+02:00",
     "note": null
@@ -498,7 +498,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-16T13:00:00+02:00",
     "end": "2025-12-16T16:00:00+02:00",
     "note": null
@@ -510,7 +510,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-23T09:30:00+02:00",
     "end": "2025-12-23T12:30:00+02:00",
     "note": null
@@ -522,7 +522,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-23T09:30:00+02:00",
     "end": "2025-12-23T12:30:00+02:00",
     "note": null
@@ -534,7 +534,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-23T09:30:00+02:00",
     "end": "2025-12-23T12:30:00+02:00",
     "note": null
@@ -546,7 +546,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-23T13:00:00+02:00",
     "end": "2025-12-23T16:00:00+02:00",
     "note": null
@@ -558,7 +558,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-23T13:00:00+02:00",
     "end": "2025-12-23T16:00:00+02:00",
     "note": null
@@ -570,7 +570,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-23T13:00:00+02:00",
     "end": "2025-12-23T16:00:00+02:00",
     "note": null
@@ -582,7 +582,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-30T09:30:00+02:00",
     "end": "2025-12-30T12:30:00+02:00",
     "note": null
@@ -594,7 +594,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-30T09:30:00+02:00",
     "end": "2025-12-30T12:30:00+02:00",
     "note": null
@@ -606,7 +606,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-30T09:30:00+02:00",
     "end": "2025-12-30T12:30:00+02:00",
     "note": null
@@ -618,7 +618,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2025-12-30T13:00:00+02:00",
     "end": "2025-12-30T16:00:00+02:00",
     "note": null
@@ -630,7 +630,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-30T13:00:00+02:00",
     "end": "2025-12-30T16:00:00+02:00",
     "note": null
@@ -642,7 +642,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-30T13:00:00+02:00",
     "end": "2025-12-30T16:00:00+02:00",
     "note": null
@@ -654,7 +654,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-06T09:30:00+02:00",
     "end": "2026-01-06T12:30:00+02:00",
     "note": null
@@ -666,7 +666,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-06T09:30:00+02:00",
     "end": "2026-01-06T12:30:00+02:00",
     "note": null
@@ -678,7 +678,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-06T09:30:00+02:00",
     "end": "2026-01-06T12:30:00+02:00",
     "note": null
@@ -690,7 +690,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-06T13:00:00+02:00",
     "end": "2026-01-06T16:00:00+02:00",
     "note": null
@@ -702,7 +702,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-06T13:00:00+02:00",
     "end": "2026-01-06T16:00:00+02:00",
     "note": null
@@ -714,7 +714,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-06T13:00:00+02:00",
     "end": "2026-01-06T16:00:00+02:00",
     "note": null
@@ -726,7 +726,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-13T09:30:00+02:00",
     "end": "2026-01-13T12:30:00+02:00",
     "note": null
@@ -738,7 +738,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-13T09:30:00+02:00",
     "end": "2026-01-13T12:30:00+02:00",
     "note": null
@@ -750,7 +750,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-13T09:30:00+02:00",
     "end": "2026-01-13T12:30:00+02:00",
     "note": null
@@ -762,7 +762,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-13T13:00:00+02:00",
     "end": "2026-01-13T16:00:00+02:00",
     "note": null
@@ -774,7 +774,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-13T13:00:00+02:00",
     "end": "2026-01-13T16:00:00+02:00",
     "note": null
@@ -786,7 +786,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-13T13:00:00+02:00",
     "end": "2026-01-13T16:00:00+02:00",
     "note": null
@@ -798,7 +798,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-20T09:30:00+02:00",
     "end": "2026-01-20T12:30:00+02:00",
     "note": null
@@ -810,7 +810,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-20T09:30:00+02:00",
     "end": "2026-01-20T12:30:00+02:00",
     "note": null
@@ -822,7 +822,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-20T09:30:00+02:00",
     "end": "2026-01-20T12:30:00+02:00",
     "note": null
@@ -834,7 +834,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-20T13:00:00+02:00",
     "end": "2026-01-20T16:00:00+02:00",
     "note": null
@@ -846,7 +846,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-20T13:00:00+02:00",
     "end": "2026-01-20T16:00:00+02:00",
     "note": null
@@ -858,7 +858,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-20T13:00:00+02:00",
     "end": "2026-01-20T16:00:00+02:00",
     "note": null
@@ -870,7 +870,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-27T09:30:00+02:00",
     "end": "2026-01-27T12:30:00+02:00",
     "note": null
@@ -882,7 +882,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-27T09:30:00+02:00",
     "end": "2026-01-27T12:30:00+02:00",
     "note": null
@@ -894,7 +894,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-27T09:30:00+02:00",
     "end": "2026-01-27T12:30:00+02:00",
     "note": null
@@ -906,7 +906,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-01-27T13:00:00+02:00",
     "end": "2026-01-27T16:00:00+02:00",
     "note": null
@@ -918,7 +918,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-27T13:00:00+02:00",
     "end": "2026-01-27T16:00:00+02:00",
     "note": null
@@ -930,7 +930,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-27T13:00:00+02:00",
     "end": "2026-01-27T16:00:00+02:00",
     "note": null
@@ -942,7 +942,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-02-03T09:30:00+02:00",
     "end": "2026-02-03T12:30:00+02:00",
     "note": null
@@ -954,7 +954,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-02-03T09:30:00+02:00",
     "end": "2026-02-03T12:30:00+02:00",
     "note": null
@@ -966,7 +966,7 @@
     "anno": 2,
     "gruppo": "C",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-02-03T09:30:00+02:00",
     "end": "2026-02-03T12:30:00+02:00",
     "note": null
@@ -978,7 +978,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Paiano",
     "start": "2026-02-03T13:00:00+02:00",
     "end": "2026-02-03T16:00:00+02:00",
     "note": null
@@ -990,7 +990,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-02-03T13:00:00+02:00",
     "end": "2026-02-03T16:00:00+02:00",
     "note": null
@@ -1002,7 +1002,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-02-03T13:00:00+02:00",
     "end": "2026-02-03T16:00:00+02:00",
     "note": null
@@ -1014,7 +1014,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-05T14:00:00+02:00",
     "end": "2025-11-05T18:00:00+02:00",
     "note": null
@@ -1026,7 +1026,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-12T14:00:00+02:00",
     "end": "2025-11-12T18:00:00+02:00",
     "note": null
@@ -1038,7 +1038,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-19T14:00:00+02:00",
     "end": "2025-11-19T18:00:00+02:00",
     "note": null
@@ -1050,7 +1050,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-11-26T14:00:00+02:00",
     "end": "2025-11-26T18:00:00+02:00",
     "note": null
@@ -1062,7 +1062,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-03T14:00:00+02:00",
     "end": "2025-12-03T18:00:00+02:00",
     "note": null
@@ -1074,7 +1074,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-10T14:00:00+02:00",
     "end": "2025-12-10T18:00:00+02:00",
     "note": null
@@ -1086,7 +1086,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-17T14:00:00+02:00",
     "end": "2025-12-17T18:00:00+02:00",
     "note": null
@@ -1098,7 +1098,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-24T14:00:00+02:00",
     "end": "2025-12-24T18:00:00+02:00",
     "note": null
@@ -1110,7 +1110,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2025-12-31T14:00:00+02:00",
     "end": "2025-12-31T18:00:00+02:00",
     "note": null
@@ -1122,7 +1122,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-07T14:00:00+02:00",
     "end": "2026-01-07T18:00:00+02:00",
     "note": null
@@ -1134,7 +1134,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-14T14:00:00+02:00",
     "end": "2026-01-14T18:00:00+02:00",
     "note": null
@@ -1146,7 +1146,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-21T14:00:00+02:00",
     "end": "2026-01-21T18:00:00+02:00",
     "note": null
@@ -1158,7 +1158,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-01-28T14:00:00+02:00",
     "end": "2026-01-28T18:00:00+02:00",
     "note": null
@@ -1170,7 +1170,7 @@
     "anno": 2,
     "gruppo": "B",
     "aula": "Multimedia LAB",
-    "docente": "Dalla Valle",
+    "docente": "Fragola",
     "start": "2026-02-04T14:00:00+02:00",
     "end": "2026-02-04T18:00:00+02:00",
     "note": null
@@ -1182,7 +1182,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-11-06T09:30:00+02:00",
     "end": "2025-11-06T12:30:00+02:00",
     "note": null
@@ -1194,7 +1194,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-11-13T09:30:00+02:00",
     "end": "2025-11-13T12:30:00+02:00",
     "note": null
@@ -1206,7 +1206,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-11-20T09:30:00+02:00",
     "end": "2025-11-20T12:30:00+02:00",
     "note": null
@@ -1218,7 +1218,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-11-27T09:30:00+02:00",
     "end": "2025-11-27T12:30:00+02:00",
     "note": null
@@ -1230,7 +1230,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-12-04T09:30:00+02:00",
     "end": "2025-12-04T12:30:00+02:00",
     "note": null
@@ -1242,7 +1242,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-12-11T09:30:00+02:00",
     "end": "2025-12-11T12:30:00+02:00",
     "note": null
@@ -1254,7 +1254,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-12-18T09:30:00+02:00",
     "end": "2025-12-18T12:30:00+02:00",
     "note": null
@@ -1266,7 +1266,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2025-12-25T09:30:00+02:00",
     "end": "2025-12-25T12:30:00+02:00",
     "note": null
@@ -1278,7 +1278,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2026-01-01T09:30:00+02:00",
     "end": "2026-01-01T12:30:00+02:00",
     "note": null
@@ -1290,7 +1290,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2026-01-08T09:30:00+02:00",
     "end": "2026-01-08T12:30:00+02:00",
     "note": null
@@ -1302,7 +1302,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2026-01-15T09:30:00+02:00",
     "end": "2026-01-15T12:30:00+02:00",
     "note": null
@@ -1314,7 +1314,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2026-01-22T09:30:00+02:00",
     "end": "2026-01-22T12:30:00+02:00",
     "note": null
@@ -1326,7 +1326,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2026-01-29T09:30:00+02:00",
     "end": "2026-01-29T12:30:00+02:00",
     "note": null
@@ -1338,7 +1338,7 @@
     "anno": 2,
     "gruppo": null,
     "aula": "Magna 1+2",
-    "docente": "Fiaschi",
+    "docente": "Vivarelli",
     "start": "2026-02-05T09:30:00+02:00",
     "end": "2026-02-05T12:30:00+02:00",
     "note": null
@@ -1350,7 +1350,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-07T09:30:00+02:00",
     "end": "2025-11-07T13:30:00+02:00",
     "note": null
@@ -1362,7 +1362,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-14T09:30:00+02:00",
     "end": "2025-11-14T13:30:00+02:00",
     "note": null
@@ -1374,7 +1374,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-21T09:30:00+02:00",
     "end": "2025-11-21T13:30:00+02:00",
     "note": null
@@ -1386,7 +1386,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-11-28T09:30:00+02:00",
     "end": "2025-11-28T13:30:00+02:00",
     "note": null
@@ -1398,7 +1398,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-05T09:30:00+02:00",
     "end": "2025-12-05T13:30:00+02:00",
     "note": null
@@ -1410,7 +1410,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-12T09:30:00+02:00",
     "end": "2025-12-12T13:30:00+02:00",
     "note": null
@@ -1422,7 +1422,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-19T09:30:00+02:00",
     "end": "2025-12-19T13:30:00+02:00",
     "note": null
@@ -1434,7 +1434,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2025-12-26T09:30:00+02:00",
     "end": "2025-12-26T13:30:00+02:00",
     "note": null
@@ -1446,7 +1446,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-02T09:30:00+02:00",
     "end": "2026-01-02T13:30:00+02:00",
     "note": null
@@ -1458,7 +1458,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-09T09:30:00+02:00",
     "end": "2026-01-09T13:30:00+02:00",
     "note": null
@@ -1470,7 +1470,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-16T09:30:00+02:00",
     "end": "2026-01-16T13:30:00+02:00",
     "note": null
@@ -1482,7 +1482,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-23T09:30:00+02:00",
     "end": "2026-01-23T13:30:00+02:00",
     "note": null
@@ -1494,7 +1494,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-01-30T09:30:00+02:00",
     "end": "2026-01-30T13:30:00+02:00",
     "note": null
@@ -1506,7 +1506,7 @@
     "anno": 2,
     "gruppo": "A",
     "aula": "Multimedia LAB",
-    "docente": "Andreoni",
+    "docente": "Citi",
     "start": "2026-02-06T09:30:00+02:00",
     "end": "2026-02-06T13:30:00+02:00",
     "note": null
