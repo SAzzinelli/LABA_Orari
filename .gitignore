@@ -6,6 +6,9 @@
 __pycache__/
 output.txt
 test-*.json
+# Ignora *-s1.json e *-s2.json ovunque tranne in orari/
 *-s1.json
 *-s2.json
+!orari/**/*-s*.json
+
 
