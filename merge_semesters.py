@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 Script per unire i JSON di due semestri in un unico file
@@ -36,4 +37,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
 
