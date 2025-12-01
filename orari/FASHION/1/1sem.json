@@ -9,7 +9,8 @@
     "docente": "Baggiani",
     "start": "2025-11-03T08:30:00+01:00",
     "end": "2025-11-03T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -21,7 +22,8 @@
     "docente": "Cacioli",
     "start": "2025-11-03T10:30:00+01:00",
     "end": "2025-11-03T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -33,7 +35,8 @@
     "docente": "Cacioli",
     "start": "2025-11-03T13:30:00+01:00",
     "end": "2025-11-03T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -45,7 +48,8 @@
     "docente": "Baggiani",
     "start": "2025-11-10T08:30:00+01:00",
     "end": "2025-11-10T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -57,7 +61,8 @@
     "docente": "Cacioli",
     "start": "2025-11-10T10:30:00+01:00",
     "end": "2025-11-10T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -69,7 +74,8 @@
     "docente": "Cacioli",
     "start": "2025-11-10T13:30:00+01:00",
     "end": "2025-11-10T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -81,7 +87,8 @@
     "docente": "Baggiani",
     "start": "2025-11-17T08:30:00+01:00",
     "end": "2025-11-17T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -93,7 +100,8 @@
     "docente": "Cacioli",
     "start": "2025-11-17T10:30:00+01:00",
     "end": "2025-11-17T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -105,7 +113,8 @@
     "docente": "Cacioli",
     "start": "2025-11-17T13:30:00+01:00",
     "end": "2025-11-17T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -117,7 +126,8 @@
     "docente": "Baggiani",
     "start": "2025-11-24T08:30:00+01:00",
     "end": "2025-11-24T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -129,7 +139,8 @@
     "docente": "Cacioli",
     "start": "2025-11-24T10:30:00+01:00",
     "end": "2025-11-24T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -141,7 +152,8 @@
     "docente": "Cacioli",
     "start": "2025-11-24T13:30:00+01:00",
     "end": "2025-11-24T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -153,7 +165,8 @@
     "docente": "Baggiani",
     "start": "2025-12-01T08:30:00+01:00",
     "end": "2025-12-01T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -165,7 +178,8 @@
     "docente": "Cacioli",
     "start": "2025-12-01T10:30:00+01:00",
     "end": "2025-12-01T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -177,7 +191,8 @@
     "docente": "Cacioli",
     "start": "2025-12-01T13:30:00+01:00",
     "end": "2025-12-01T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -189,7 +204,8 @@
     "docente": "Baggiani",
     "start": "2025-12-08T08:30:00+01:00",
     "end": "2025-12-08T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -201,7 +217,8 @@
     "docente": "Cacioli",
     "start": "2025-12-08T10:30:00+01:00",
     "end": "2025-12-08T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -213,7 +230,8 @@
     "docente": "Cacioli",
     "start": "2025-12-08T13:30:00+01:00",
     "end": "2025-12-08T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -225,7 +243,8 @@
     "docente": "Baggiani",
     "start": "2025-12-15T08:30:00+01:00",
     "end": "2025-12-15T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -237,7 +256,8 @@
     "docente": "Cacioli",
     "start": "2025-12-15T10:30:00+01:00",
     "end": "2025-12-15T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -249,7 +269,8 @@
     "docente": "Cacioli",
     "start": "2025-12-15T13:30:00+01:00",
     "end": "2025-12-15T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -261,7 +282,8 @@
     "docente": "Baggiani",
     "start": "2025-12-22T08:30:00+01:00",
     "end": "2025-12-22T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -273,7 +295,8 @@
     "docente": "Cacioli",
     "start": "2025-12-22T10:30:00+01:00",
     "end": "2025-12-22T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -285,7 +308,8 @@
     "docente": "Cacioli",
     "start": "2025-12-22T13:30:00+01:00",
     "end": "2025-12-22T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -297,7 +321,8 @@
     "docente": "Baggiani",
     "start": "2025-12-29T08:30:00+01:00",
     "end": "2025-12-29T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -309,7 +334,8 @@
     "docente": "Cacioli",
     "start": "2025-12-29T10:30:00+01:00",
     "end": "2025-12-29T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -321,7 +347,8 @@
     "docente": "Cacioli",
     "start": "2025-12-29T13:30:00+01:00",
     "end": "2025-12-29T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -333,7 +360,8 @@
     "docente": "Baggiani",
     "start": "2026-01-05T08:30:00+01:00",
     "end": "2026-01-05T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -345,7 +373,8 @@
     "docente": "Cacioli",
     "start": "2026-01-05T10:30:00+01:00",
     "end": "2026-01-05T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -357,7 +386,8 @@
     "docente": "Cacioli",
     "start": "2026-01-05T13:30:00+01:00",
     "end": "2026-01-05T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -369,7 +399,8 @@
     "docente": "Baggiani",
     "start": "2026-01-12T08:30:00+01:00",
     "end": "2026-01-12T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -381,7 +412,8 @@
     "docente": "Cacioli",
     "start": "2026-01-12T10:30:00+01:00",
     "end": "2026-01-12T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -393,7 +425,8 @@
     "docente": "Cacioli",
     "start": "2026-01-12T13:30:00+01:00",
     "end": "2026-01-12T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -405,7 +438,8 @@
     "docente": "Baggiani",
     "start": "2026-01-19T08:30:00+01:00",
     "end": "2026-01-19T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -417,7 +451,8 @@
     "docente": "Cacioli",
     "start": "2026-01-19T10:30:00+01:00",
     "end": "2026-01-19T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -429,7 +464,8 @@
     "docente": "Cacioli",
     "start": "2026-01-19T13:30:00+01:00",
     "end": "2026-01-19T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -441,7 +477,8 @@
     "docente": "Baggiani",
     "start": "2026-01-26T08:30:00+01:00",
     "end": "2026-01-26T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -453,7 +490,8 @@
     "docente": "Cacioli",
     "start": "2026-01-26T10:30:00+01:00",
     "end": "2026-01-26T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -465,7 +503,8 @@
     "docente": "Cacioli",
     "start": "2026-01-26T13:30:00+01:00",
     "end": "2026-01-26T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -477,7 +516,8 @@
     "docente": "Baggiani",
     "start": "2026-02-02T08:30:00+01:00",
     "end": "2026-02-02T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -489,7 +529,8 @@
     "docente": "Cacioli",
     "start": "2026-02-02T10:30:00+01:00",
     "end": "2026-02-02T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -501,7 +542,8 @@
     "docente": "Cacioli",
     "start": "2026-02-02T13:30:00+01:00",
     "end": "2026-02-02T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fondamenti di Marketing Culturale",
@@ -513,7 +555,8 @@
     "docente": "Baggiani",
     "start": "2026-02-09T08:30:00+01:00",
     "end": "2026-02-09T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Storia del Costume",
@@ -525,7 +568,8 @@
     "docente": "Cacioli",
     "start": "2026-02-09T10:30:00+01:00",
     "end": "2026-02-09T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -537,7 +581,8 @@
     "docente": "Cacioli",
     "start": "2026-02-09T13:30:00+01:00",
     "end": "2026-02-09T16:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -549,7 +594,8 @@
     "docente": "Monaco",
     "start": "2025-11-04T09:00:00+01:00",
     "end": "2025-11-04T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -561,7 +607,8 @@
     "docente": "Astier",
     "start": "2025-11-04T08:30:00+01:00",
     "end": "2025-11-04T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -573,7 +620,8 @@
     "docente": "Astier",
     "start": "2025-11-04T12:30:00+01:00",
     "end": "2025-11-04T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -585,7 +633,8 @@
     "docente": "Monaco",
     "start": "2025-11-11T09:00:00+01:00",
     "end": "2025-11-11T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -597,7 +646,8 @@
     "docente": "Astier",
     "start": "2025-11-11T08:30:00+01:00",
     "end": "2025-11-11T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -609,7 +659,8 @@
     "docente": "Astier",
     "start": "2025-11-11T12:30:00+01:00",
     "end": "2025-11-11T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -621,7 +672,8 @@
     "docente": "Monaco",
     "start": "2025-11-18T09:00:00+01:00",
     "end": "2025-11-18T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -633,7 +685,8 @@
     "docente": "Astier",
     "start": "2025-11-18T08:30:00+01:00",
     "end": "2025-11-18T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -645,7 +698,8 @@
     "docente": "Astier",
     "start": "2025-11-18T12:30:00+01:00",
     "end": "2025-11-18T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -657,7 +711,8 @@
     "docente": "Monaco",
     "start": "2025-11-25T09:00:00+01:00",
     "end": "2025-11-25T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -669,7 +724,8 @@
     "docente": "Astier",
     "start": "2025-11-25T08:30:00+01:00",
     "end": "2025-11-25T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -681,7 +737,8 @@
     "docente": "Astier",
     "start": "2025-11-25T12:30:00+01:00",
     "end": "2025-11-25T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -693,7 +750,8 @@
     "docente": "Monaco",
     "start": "2025-12-02T09:00:00+01:00",
     "end": "2025-12-02T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -705,7 +763,8 @@
     "docente": "Astier",
     "start": "2025-12-02T08:30:00+01:00",
     "end": "2025-12-02T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -717,7 +776,8 @@
     "docente": "Astier",
     "start": "2025-12-02T12:30:00+01:00",
     "end": "2025-12-02T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -729,7 +789,8 @@
     "docente": "Monaco",
     "start": "2025-12-09T09:00:00+01:00",
     "end": "2025-12-09T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -741,7 +802,8 @@
     "docente": "Astier",
     "start": "2025-12-09T08:30:00+01:00",
     "end": "2025-12-09T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -753,7 +815,8 @@
     "docente": "Astier",
     "start": "2025-12-09T12:30:00+01:00",
     "end": "2025-12-09T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -765,7 +828,8 @@
     "docente": "Monaco",
     "start": "2025-12-16T09:00:00+01:00",
     "end": "2025-12-16T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -777,7 +841,8 @@
     "docente": "Astier",
     "start": "2025-12-16T08:30:00+01:00",
     "end": "2025-12-16T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -789,7 +854,8 @@
     "docente": "Astier",
     "start": "2025-12-16T12:30:00+01:00",
     "end": "2025-12-16T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -801,7 +867,8 @@
     "docente": "Monaco",
     "start": "2025-12-23T09:00:00+01:00",
     "end": "2025-12-23T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -813,7 +880,8 @@
     "docente": "Astier",
     "start": "2025-12-23T08:30:00+01:00",
     "end": "2025-12-23T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -825,7 +893,8 @@
     "docente": "Astier",
     "start": "2025-12-23T12:30:00+01:00",
     "end": "2025-12-23T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -837,7 +906,8 @@
     "docente": "Monaco",
     "start": "2025-12-30T09:00:00+01:00",
     "end": "2025-12-30T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -849,7 +919,8 @@
     "docente": "Astier",
     "start": "2025-12-30T08:30:00+01:00",
     "end": "2025-12-30T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -861,7 +932,8 @@
     "docente": "Astier",
     "start": "2025-12-30T12:30:00+01:00",
     "end": "2025-12-30T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -873,7 +945,8 @@
     "docente": "Monaco",
     "start": "2026-01-06T09:00:00+01:00",
     "end": "2026-01-06T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -885,7 +958,8 @@
     "docente": "Astier",
     "start": "2026-01-06T08:30:00+01:00",
     "end": "2026-01-06T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -897,7 +971,8 @@
     "docente": "Astier",
     "start": "2026-01-06T12:30:00+01:00",
     "end": "2026-01-06T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -909,7 +984,8 @@
     "docente": "Monaco",
     "start": "2026-01-13T09:00:00+01:00",
     "end": "2026-01-13T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -921,7 +997,8 @@
     "docente": "Astier",
     "start": "2026-01-13T08:30:00+01:00",
     "end": "2026-01-13T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -933,7 +1010,8 @@
     "docente": "Astier",
     "start": "2026-01-13T12:30:00+01:00",
     "end": "2026-01-13T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -945,7 +1023,8 @@
     "docente": "Monaco",
     "start": "2026-01-20T09:00:00+01:00",
     "end": "2026-01-20T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -957,7 +1036,8 @@
     "docente": "Astier",
     "start": "2026-01-20T08:30:00+01:00",
     "end": "2026-01-20T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -969,7 +1049,8 @@
     "docente": "Astier",
     "start": "2026-01-20T12:30:00+01:00",
     "end": "2026-01-20T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -981,7 +1062,8 @@
     "docente": "Monaco",
     "start": "2026-01-27T09:00:00+01:00",
     "end": "2026-01-27T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -993,7 +1075,8 @@
     "docente": "Astier",
     "start": "2026-01-27T08:30:00+01:00",
     "end": "2026-01-27T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -1005,7 +1088,8 @@
     "docente": "Astier",
     "start": "2026-01-27T12:30:00+01:00",
     "end": "2026-01-27T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1017,7 +1101,8 @@
     "docente": "Monaco",
     "start": "2026-02-03T09:00:00+01:00",
     "end": "2026-02-03T12:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -1029,7 +1114,8 @@
     "docente": "Astier",
     "start": "2026-02-03T08:30:00+01:00",
     "end": "2026-02-03T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design del Tessuto",
@@ -1041,7 +1127,8 @@
     "docente": "Astier",
     "start": "2026-02-03T12:30:00+01:00",
     "end": "2026-02-03T15:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1053,7 +1140,8 @@
     "docente": "Cacioli",
     "start": "2025-11-05T08:30:00+01:00",
     "end": "2025-11-05T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1065,7 +1153,8 @@
     "docente": "Bracciale",
     "start": "2025-11-05T12:30:00+01:00",
     "end": "2025-11-05T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1077,7 +1166,8 @@
     "docente": "Cacioli",
     "start": "2025-11-12T08:30:00+01:00",
     "end": "2025-11-12T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1089,7 +1179,8 @@
     "docente": "Bracciale",
     "start": "2025-11-12T12:30:00+01:00",
     "end": "2025-11-12T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1101,7 +1192,8 @@
     "docente": "Cacioli",
     "start": "2025-11-19T08:30:00+01:00",
     "end": "2025-11-19T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1113,7 +1205,8 @@
     "docente": "Bracciale",
     "start": "2025-11-19T12:30:00+01:00",
     "end": "2025-11-19T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1125,7 +1218,8 @@
     "docente": "Cacioli",
     "start": "2025-11-26T08:30:00+01:00",
     "end": "2025-11-26T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1137,7 +1231,8 @@
     "docente": "Bracciale",
     "start": "2025-11-26T12:30:00+01:00",
     "end": "2025-11-26T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1149,7 +1244,8 @@
     "docente": "Cacioli",
     "start": "2025-12-03T08:30:00+01:00",
     "end": "2025-12-03T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1161,7 +1257,8 @@
     "docente": "Bracciale",
     "start": "2025-12-03T12:30:00+01:00",
     "end": "2025-12-03T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1173,7 +1270,8 @@
     "docente": "Cacioli",
     "start": "2025-12-10T08:30:00+01:00",
     "end": "2025-12-10T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1185,7 +1283,8 @@
     "docente": "Bracciale",
     "start": "2025-12-10T12:30:00+01:00",
     "end": "2025-12-10T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1197,7 +1296,8 @@
     "docente": "Cacioli",
     "start": "2025-12-17T08:30:00+01:00",
     "end": "2025-12-17T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1209,7 +1309,8 @@
     "docente": "Bracciale",
     "start": "2025-12-17T12:30:00+01:00",
     "end": "2025-12-17T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1221,7 +1322,8 @@
     "docente": "Cacioli",
     "start": "2025-12-24T08:30:00+01:00",
     "end": "2025-12-24T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1233,7 +1335,8 @@
     "docente": "Bracciale",
     "start": "2025-12-24T12:30:00+01:00",
     "end": "2025-12-24T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1245,7 +1348,8 @@
     "docente": "Cacioli",
     "start": "2025-12-31T08:30:00+01:00",
     "end": "2025-12-31T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1257,7 +1361,8 @@
     "docente": "Bracciale",
     "start": "2025-12-31T12:30:00+01:00",
     "end": "2025-12-31T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1269,7 +1374,8 @@
     "docente": "Cacioli",
     "start": "2026-01-07T08:30:00+01:00",
     "end": "2026-01-07T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1281,7 +1387,8 @@
     "docente": "Bracciale",
     "start": "2026-01-07T12:30:00+01:00",
     "end": "2026-01-07T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1293,7 +1400,8 @@
     "docente": "Cacioli",
     "start": "2026-01-14T08:30:00+01:00",
     "end": "2026-01-14T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1305,7 +1413,8 @@
     "docente": "Bracciale",
     "start": "2026-01-14T12:30:00+01:00",
     "end": "2026-01-14T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1317,7 +1426,8 @@
     "docente": "Cacioli",
     "start": "2026-01-21T08:30:00+01:00",
     "end": "2026-01-21T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1329,7 +1439,8 @@
     "docente": "Bracciale",
     "start": "2026-01-21T12:30:00+01:00",
     "end": "2026-01-21T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1341,7 +1452,8 @@
     "docente": "Cacioli",
     "start": "2026-01-28T08:30:00+01:00",
     "end": "2026-01-28T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1353,7 +1465,8 @@
     "docente": "Bracciale",
     "start": "2026-01-28T12:30:00+01:00",
     "end": "2026-01-28T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 1",
@@ -1365,7 +1478,8 @@
     "docente": "Cacioli",
     "start": "2026-02-04T08:30:00+01:00",
     "end": "2026-02-04T11:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1377,7 +1491,8 @@
     "docente": "Bracciale",
     "start": "2026-02-04T12:30:00+01:00",
     "end": "2026-02-04T15:30:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1389,7 +1504,8 @@
     "docente": "Bracciale",
     "start": "2025-11-06T09:00:00+01:00",
     "end": "2025-11-06T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1401,7 +1517,8 @@
     "docente": "Monaco",
     "start": "2025-11-06T09:30:00+01:00",
     "end": "2025-11-06T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1413,7 +1530,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-06T13:30:00+01:00",
     "end": "2025-11-06T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1425,7 +1543,8 @@
     "docente": "Bracciale",
     "start": "2025-11-13T09:00:00+01:00",
     "end": "2025-11-13T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1437,7 +1556,8 @@
     "docente": "Monaco",
     "start": "2025-11-13T09:30:00+01:00",
     "end": "2025-11-13T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1449,7 +1569,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-13T13:30:00+01:00",
     "end": "2025-11-13T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1461,7 +1582,8 @@
     "docente": "Bracciale",
     "start": "2025-11-20T09:00:00+01:00",
     "end": "2025-11-20T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1473,7 +1595,8 @@
     "docente": "Monaco",
     "start": "2025-11-20T09:30:00+01:00",
     "end": "2025-11-20T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1485,7 +1608,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-20T13:30:00+01:00",
     "end": "2025-11-20T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1497,7 +1621,8 @@
     "docente": "Bracciale",
     "start": "2025-11-27T09:00:00+01:00",
     "end": "2025-11-27T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1509,7 +1634,8 @@
     "docente": "Monaco",
     "start": "2025-11-27T09:30:00+01:00",
     "end": "2025-11-27T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1521,7 +1647,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-27T13:30:00+01:00",
     "end": "2025-11-27T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1533,7 +1660,8 @@
     "docente": "Bracciale",
     "start": "2025-12-04T09:00:00+01:00",
     "end": "2025-12-04T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1545,7 +1673,8 @@
     "docente": "Monaco",
     "start": "2025-12-04T09:30:00+01:00",
     "end": "2025-12-04T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1557,7 +1686,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-04T13:30:00+01:00",
     "end": "2025-12-04T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1569,7 +1699,8 @@
     "docente": "Bracciale",
     "start": "2025-12-11T09:00:00+01:00",
     "end": "2025-12-11T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1581,7 +1712,8 @@
     "docente": "Monaco",
     "start": "2025-12-11T09:30:00+01:00",
     "end": "2025-12-11T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1593,7 +1725,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-11T13:30:00+01:00",
     "end": "2025-12-11T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1605,7 +1738,8 @@
     "docente": "Bracciale",
     "start": "2025-12-18T09:00:00+01:00",
     "end": "2025-12-18T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1617,7 +1751,8 @@
     "docente": "Monaco",
     "start": "2025-12-18T09:30:00+01:00",
     "end": "2025-12-18T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1629,7 +1764,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-18T13:30:00+01:00",
     "end": "2025-12-18T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1641,7 +1777,8 @@
     "docente": "Bracciale",
     "start": "2025-12-25T09:00:00+01:00",
     "end": "2025-12-25T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1653,7 +1790,8 @@
     "docente": "Monaco",
     "start": "2025-12-25T09:30:00+01:00",
     "end": "2025-12-25T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1665,7 +1803,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-25T13:30:00+01:00",
     "end": "2025-12-25T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1677,7 +1816,8 @@
     "docente": "Bracciale",
     "start": "2026-01-01T09:00:00+01:00",
     "end": "2026-01-01T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1689,7 +1829,8 @@
     "docente": "Monaco",
     "start": "2026-01-01T09:30:00+01:00",
     "end": "2026-01-01T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1701,7 +1842,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-01T13:30:00+01:00",
     "end": "2026-01-01T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1713,7 +1855,8 @@
     "docente": "Bracciale",
     "start": "2026-01-08T09:00:00+01:00",
     "end": "2026-01-08T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1725,7 +1868,8 @@
     "docente": "Monaco",
     "start": "2026-01-08T09:30:00+01:00",
     "end": "2026-01-08T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1737,7 +1881,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-08T13:30:00+01:00",
     "end": "2026-01-08T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1749,7 +1894,8 @@
     "docente": "Bracciale",
     "start": "2026-01-15T09:00:00+01:00",
     "end": "2026-01-15T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1761,7 +1907,8 @@
     "docente": "Monaco",
     "start": "2026-01-15T09:30:00+01:00",
     "end": "2026-01-15T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1773,7 +1920,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-15T13:30:00+01:00",
     "end": "2026-01-15T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1785,7 +1933,8 @@
     "docente": "Bracciale",
     "start": "2026-01-22T09:00:00+01:00",
     "end": "2026-01-22T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1797,7 +1946,8 @@
     "docente": "Monaco",
     "start": "2026-01-22T09:30:00+01:00",
     "end": "2026-01-22T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1809,7 +1959,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-22T13:30:00+01:00",
     "end": "2026-01-22T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1821,7 +1972,8 @@
     "docente": "Bracciale",
     "start": "2026-01-29T09:00:00+01:00",
     "end": "2026-01-29T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1833,7 +1985,8 @@
     "docente": "Monaco",
     "start": "2026-01-29T09:30:00+01:00",
     "end": "2026-01-29T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1845,7 +1998,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-29T13:30:00+01:00",
     "end": "2026-01-29T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Informatica di Base",
@@ -1857,7 +2011,8 @@
     "docente": "Bracciale",
     "start": "2026-02-05T09:00:00+01:00",
     "end": "2026-02-05T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 1",
@@ -1869,7 +2024,8 @@
     "docente": "Monaco",
     "start": "2026-02-05T09:30:00+01:00",
     "end": "2026-02-05T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1881,7 +2037,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-02-05T13:30:00+01:00",
     "end": "2026-02-05T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1893,7 +2050,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-07T08:30:00+01:00",
     "end": "2025-11-07T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1905,7 +2063,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-14T08:30:00+01:00",
     "end": "2025-11-14T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1917,7 +2076,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-21T08:30:00+01:00",
     "end": "2025-11-21T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1929,7 +2089,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-11-28T08:30:00+01:00",
     "end": "2025-11-28T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1941,7 +2102,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-05T08:30:00+01:00",
     "end": "2025-12-05T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1953,7 +2115,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-12T08:30:00+01:00",
     "end": "2025-12-12T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1965,7 +2128,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-19T08:30:00+01:00",
     "end": "2025-12-19T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1977,7 +2141,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2025-12-26T08:30:00+01:00",
     "end": "2025-12-26T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -1989,7 +2154,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-02T08:30:00+01:00",
     "end": "2026-01-02T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -2001,7 +2167,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-09T08:30:00+01:00",
     "end": "2026-01-09T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -2013,7 +2180,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-16T08:30:00+01:00",
     "end": "2026-01-16T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -2025,7 +2193,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-23T08:30:00+01:00",
     "end": "2026-01-23T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -2037,7 +2206,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-01-30T08:30:00+01:00",
     "end": "2026-01-30T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion Design 1",
@@ -2049,7 +2219,8 @@
     "docente": "Restivo / Frigerio",
     "start": "2026-02-06T08:30:00+01:00",
     "end": "2026-02-06T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2061,7 +2232,8 @@
     "docente": "Carbone",
     "start": "2025-11-08T13:00:00+01:00",
     "end": "2025-11-08T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2073,7 +2245,8 @@
     "docente": "Carbone",
     "start": "2025-11-15T13:00:00+01:00",
     "end": "2025-11-15T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2085,7 +2258,8 @@
     "docente": "Carbone",
     "start": "2025-11-22T13:00:00+01:00",
     "end": "2025-11-22T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2097,7 +2271,8 @@
     "docente": "Carbone",
     "start": "2025-11-29T13:00:00+01:00",
     "end": "2025-11-29T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2109,7 +2284,8 @@
     "docente": "Carbone",
     "start": "2025-12-06T13:00:00+01:00",
     "end": "2025-12-06T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2121,7 +2297,8 @@
     "docente": "Carbone",
     "start": "2025-12-13T13:00:00+01:00",
     "end": "2025-12-13T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2133,7 +2310,8 @@
     "docente": "Carbone",
     "start": "2025-12-20T13:00:00+01:00",
     "end": "2025-12-20T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2145,7 +2323,8 @@
     "docente": "Carbone",
     "start": "2025-12-27T13:00:00+01:00",
     "end": "2025-12-27T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2157,7 +2336,8 @@
     "docente": "Carbone",
     "start": "2026-01-03T13:00:00+01:00",
     "end": "2026-01-03T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2169,7 +2349,8 @@
     "docente": "Carbone",
     "start": "2026-01-10T13:00:00+01:00",
     "end": "2026-01-10T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2181,7 +2362,8 @@
     "docente": "Carbone",
     "start": "2026-01-17T13:00:00+01:00",
     "end": "2026-01-17T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2193,7 +2375,8 @@
     "docente": "Carbone",
     "start": "2026-01-24T13:00:00+01:00",
     "end": "2026-01-24T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2205,7 +2388,8 @@
     "docente": "Carbone",
     "start": "2026-01-31T13:00:00+01:00",
     "end": "2026-01-31T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2217,6 +2401,7 @@
     "docente": "Carbone",
     "start": "2026-02-07T13:00:00+01:00",
     "end": "2026-02-07T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "FASHION"
   }
 ]

@@ -9,7 +9,8 @@
     "docente": "Follesa",
     "start": "2026-02-23T10:00:00+01:00",
     "end": "2026-02-23T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -21,7 +22,8 @@
     "docente": "Giusto",
     "start": "2026-02-23T13:30:00+01:00",
     "end": "2026-02-23T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -33,7 +35,8 @@
     "docente": "Massini",
     "start": "2026-02-24T09:30:00+01:00",
     "end": "2026-02-24T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -45,7 +48,8 @@
     "docente": "Connell",
     "start": "2026-02-24T11:30:00+01:00",
     "end": "2026-02-24T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -57,7 +61,8 @@
     "docente": "Giusto",
     "start": "2026-02-24T14:00:00+01:00",
     "end": "2026-02-24T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -69,7 +74,8 @@
     "docente": "Barboni",
     "start": "2026-02-25T11:00:00+01:00",
     "end": "2026-02-25T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -81,7 +87,8 @@
     "docente": "Barboni",
     "start": "2026-02-25T13:30:00+01:00",
     "end": "2026-02-25T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -93,7 +100,8 @@
     "docente": "Fiaschi",
     "start": "2026-02-25T16:30:00+01:00",
     "end": "2026-02-25T18:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -105,7 +113,8 @@
     "docente": "Massini",
     "start": "2026-02-26T09:30:00+01:00",
     "end": "2026-02-26T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -117,7 +126,8 @@
     "docente": "Bua",
     "start": "2026-02-26T11:30:00+01:00",
     "end": "2026-02-26T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -129,7 +139,8 @@
     "docente": "Barboni",
     "start": "2026-02-26T14:00:00+01:00",
     "end": "2026-02-26T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -141,7 +152,8 @@
     "docente": "Follesa",
     "start": "2026-02-26T14:30:00+01:00",
     "end": "2026-02-26T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -153,7 +165,8 @@
     "docente": "Carbone",
     "start": "2026-02-28T14:00:00+01:00",
     "end": "2026-02-28T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -165,7 +178,8 @@
     "docente": "Follesa",
     "start": "2026-03-02T10:00:00+01:00",
     "end": "2026-03-02T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -177,7 +191,8 @@
     "docente": "Giusto",
     "start": "2026-03-02T13:30:00+01:00",
     "end": "2026-03-02T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -189,7 +204,8 @@
     "docente": "Massini",
     "start": "2026-03-03T09:30:00+01:00",
     "end": "2026-03-03T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -201,7 +217,8 @@
     "docente": "Connell",
     "start": "2026-03-03T11:30:00+01:00",
     "end": "2026-03-03T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -213,7 +230,8 @@
     "docente": "Giusto",
     "start": "2026-03-03T14:00:00+01:00",
     "end": "2026-03-03T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -225,7 +243,8 @@
     "docente": "Barboni",
     "start": "2026-03-04T11:00:00+01:00",
     "end": "2026-03-04T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -237,7 +256,8 @@
     "docente": "Barboni",
     "start": "2026-03-04T13:30:00+01:00",
     "end": "2026-03-04T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -249,7 +269,8 @@
     "docente": "Fiaschi",
     "start": "2026-03-04T16:30:00+01:00",
     "end": "2026-03-04T18:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -261,7 +282,8 @@
     "docente": "Massini",
     "start": "2026-03-05T09:30:00+01:00",
     "end": "2026-03-05T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -273,7 +295,8 @@
     "docente": "Bua",
     "start": "2026-03-05T11:30:00+01:00",
     "end": "2026-03-05T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -285,7 +308,8 @@
     "docente": "Barboni",
     "start": "2026-03-05T14:00:00+01:00",
     "end": "2026-03-05T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -297,7 +321,8 @@
     "docente": "Follesa",
     "start": "2026-03-05T14:30:00+01:00",
     "end": "2026-03-05T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -309,7 +334,8 @@
     "docente": "Carbone",
     "start": "2026-03-07T14:00:00+01:00",
     "end": "2026-03-07T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -321,7 +347,8 @@
     "docente": "Follesa",
     "start": "2026-03-09T10:00:00+01:00",
     "end": "2026-03-09T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -333,7 +360,8 @@
     "docente": "Giusto",
     "start": "2026-03-09T13:30:00+01:00",
     "end": "2026-03-09T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -345,7 +373,8 @@
     "docente": "Massini",
     "start": "2026-03-10T09:30:00+01:00",
     "end": "2026-03-10T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -357,7 +386,8 @@
     "docente": "Connell",
     "start": "2026-03-10T11:30:00+01:00",
     "end": "2026-03-10T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -369,7 +399,8 @@
     "docente": "Giusto",
     "start": "2026-03-10T14:00:00+01:00",
     "end": "2026-03-10T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -381,7 +412,8 @@
     "docente": "Barboni",
     "start": "2026-03-11T11:00:00+01:00",
     "end": "2026-03-11T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -393,7 +425,8 @@
     "docente": "Barboni",
     "start": "2026-03-11T13:30:00+01:00",
     "end": "2026-03-11T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -405,7 +438,8 @@
     "docente": "Fiaschi",
     "start": "2026-03-11T16:30:00+01:00",
     "end": "2026-03-11T18:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -417,7 +451,8 @@
     "docente": "Massini",
     "start": "2026-03-12T09:30:00+01:00",
     "end": "2026-03-12T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -429,7 +464,8 @@
     "docente": "Bua",
     "start": "2026-03-12T11:30:00+01:00",
     "end": "2026-03-12T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -441,7 +477,8 @@
     "docente": "Barboni",
     "start": "2026-03-12T14:00:00+01:00",
     "end": "2026-03-12T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -453,7 +490,8 @@
     "docente": "Follesa",
     "start": "2026-03-12T14:30:00+01:00",
     "end": "2026-03-12T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -465,7 +503,8 @@
     "docente": "Carbone",
     "start": "2026-03-14T14:00:00+01:00",
     "end": "2026-03-14T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -477,7 +516,8 @@
     "docente": "Follesa",
     "start": "2026-03-16T10:00:00+01:00",
     "end": "2026-03-16T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -489,7 +529,8 @@
     "docente": "Giusto",
     "start": "2026-03-16T13:30:00+01:00",
     "end": "2026-03-16T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -501,7 +542,8 @@
     "docente": "Massini",
     "start": "2026-03-17T09:30:00+01:00",
     "end": "2026-03-17T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -513,7 +555,8 @@
     "docente": "Connell",
     "start": "2026-03-17T11:30:00+01:00",
     "end": "2026-03-17T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -525,7 +568,8 @@
     "docente": "Giusto",
     "start": "2026-03-17T14:00:00+01:00",
     "end": "2026-03-17T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -537,7 +581,8 @@
     "docente": "Barboni",
     "start": "2026-03-18T11:00:00+01:00",
     "end": "2026-03-18T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -549,7 +594,8 @@
     "docente": "Barboni",
     "start": "2026-03-18T13:30:00+01:00",
     "end": "2026-03-18T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -561,7 +607,8 @@
     "docente": "Fiaschi",
     "start": "2026-03-18T16:30:00+01:00",
     "end": "2026-03-18T18:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -573,7 +620,8 @@
     "docente": "Massini",
     "start": "2026-03-19T09:30:00+01:00",
     "end": "2026-03-19T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -585,7 +633,8 @@
     "docente": "Bua",
     "start": "2026-03-19T11:30:00+01:00",
     "end": "2026-03-19T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -597,7 +646,8 @@
     "docente": "Barboni",
     "start": "2026-03-19T14:00:00+01:00",
     "end": "2026-03-19T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -609,7 +659,8 @@
     "docente": "Follesa",
     "start": "2026-03-19T14:30:00+01:00",
     "end": "2026-03-19T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -621,7 +672,8 @@
     "docente": "Carbone",
     "start": "2026-03-21T14:00:00+01:00",
     "end": "2026-03-21T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -633,7 +685,8 @@
     "docente": "Follesa",
     "start": "2026-03-23T10:00:00+01:00",
     "end": "2026-03-23T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -645,7 +698,8 @@
     "docente": "Giusto",
     "start": "2026-03-23T13:30:00+01:00",
     "end": "2026-03-23T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -657,7 +711,8 @@
     "docente": "Massini",
     "start": "2026-03-24T09:30:00+01:00",
     "end": "2026-03-24T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -669,7 +724,8 @@
     "docente": "Connell",
     "start": "2026-03-24T11:30:00+01:00",
     "end": "2026-03-24T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -681,7 +737,8 @@
     "docente": "Giusto",
     "start": "2026-03-24T14:00:00+01:00",
     "end": "2026-03-24T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -693,7 +750,8 @@
     "docente": "Barboni",
     "start": "2026-03-25T11:00:00+01:00",
     "end": "2026-03-25T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -705,7 +763,8 @@
     "docente": "Barboni",
     "start": "2026-03-25T13:30:00+01:00",
     "end": "2026-03-25T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -717,7 +776,8 @@
     "docente": "Fiaschi",
     "start": "2026-03-25T16:30:00+01:00",
     "end": "2026-03-25T18:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -729,7 +789,8 @@
     "docente": "Massini",
     "start": "2026-03-26T09:30:00+01:00",
     "end": "2026-03-26T11:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -741,7 +802,8 @@
     "docente": "Bua",
     "start": "2026-03-26T11:30:00+01:00",
     "end": "2026-03-26T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -753,7 +815,8 @@
     "docente": "Barboni",
     "start": "2026-03-26T14:00:00+01:00",
     "end": "2026-03-26T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -765,7 +828,8 @@
     "docente": "Follesa",
     "start": "2026-03-26T14:30:00+01:00",
     "end": "2026-03-26T17:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -777,7 +841,8 @@
     "docente": "Carbone",
     "start": "2026-03-28T14:00:00+01:00",
     "end": "2026-03-28T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -789,7 +854,8 @@
     "docente": "Follesa",
     "start": "2026-03-30T10:00:00+02:00",
     "end": "2026-03-30T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -801,7 +867,8 @@
     "docente": "Giusto",
     "start": "2026-03-30T13:30:00+02:00",
     "end": "2026-03-30T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -813,7 +880,8 @@
     "docente": "Massini",
     "start": "2026-03-31T09:30:00+02:00",
     "end": "2026-03-31T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -825,7 +893,8 @@
     "docente": "Connell",
     "start": "2026-03-31T11:30:00+02:00",
     "end": "2026-03-31T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -837,7 +906,8 @@
     "docente": "Giusto",
     "start": "2026-03-31T14:00:00+02:00",
     "end": "2026-03-31T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -849,7 +919,8 @@
     "docente": "Barboni",
     "start": "2026-04-01T11:00:00+02:00",
     "end": "2026-04-01T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -861,7 +932,8 @@
     "docente": "Barboni",
     "start": "2026-04-01T13:30:00+02:00",
     "end": "2026-04-01T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -873,7 +945,8 @@
     "docente": "Fiaschi",
     "start": "2026-04-01T16:30:00+02:00",
     "end": "2026-04-01T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -885,7 +958,8 @@
     "docente": "Massini",
     "start": "2026-04-02T09:30:00+02:00",
     "end": "2026-04-02T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -897,7 +971,8 @@
     "docente": "Bua",
     "start": "2026-04-02T11:30:00+02:00",
     "end": "2026-04-02T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -909,7 +984,8 @@
     "docente": "Barboni",
     "start": "2026-04-02T14:00:00+02:00",
     "end": "2026-04-02T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -921,7 +997,8 @@
     "docente": "Follesa",
     "start": "2026-04-02T14:30:00+02:00",
     "end": "2026-04-02T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -933,7 +1010,8 @@
     "docente": "Carbone",
     "start": "2026-04-04T14:00:00+02:00",
     "end": "2026-04-04T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -945,7 +1023,8 @@
     "docente": "Follesa",
     "start": "2026-04-06T10:00:00+02:00",
     "end": "2026-04-06T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -957,7 +1036,8 @@
     "docente": "Giusto",
     "start": "2026-04-06T13:30:00+02:00",
     "end": "2026-04-06T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -969,7 +1049,8 @@
     "docente": "Massini",
     "start": "2026-04-07T09:30:00+02:00",
     "end": "2026-04-07T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -981,7 +1062,8 @@
     "docente": "Connell",
     "start": "2026-04-07T11:30:00+02:00",
     "end": "2026-04-07T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -993,7 +1075,8 @@
     "docente": "Giusto",
     "start": "2026-04-07T14:00:00+02:00",
     "end": "2026-04-07T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1005,7 +1088,8 @@
     "docente": "Barboni",
     "start": "2026-04-08T11:00:00+02:00",
     "end": "2026-04-08T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -1017,7 +1101,8 @@
     "docente": "Barboni",
     "start": "2026-04-08T13:30:00+02:00",
     "end": "2026-04-08T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1029,7 +1114,8 @@
     "docente": "Fiaschi",
     "start": "2026-04-08T16:30:00+02:00",
     "end": "2026-04-08T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1041,7 +1127,8 @@
     "docente": "Massini",
     "start": "2026-04-09T09:30:00+02:00",
     "end": "2026-04-09T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -1053,7 +1140,8 @@
     "docente": "Bua",
     "start": "2026-04-09T11:30:00+02:00",
     "end": "2026-04-09T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1065,7 +1153,8 @@
     "docente": "Barboni",
     "start": "2026-04-09T14:00:00+02:00",
     "end": "2026-04-09T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1077,7 +1166,8 @@
     "docente": "Follesa",
     "start": "2026-04-09T14:30:00+02:00",
     "end": "2026-04-09T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1089,7 +1179,8 @@
     "docente": "Carbone",
     "start": "2026-04-11T14:00:00+02:00",
     "end": "2026-04-11T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1101,7 +1192,8 @@
     "docente": "Follesa",
     "start": "2026-04-13T10:00:00+02:00",
     "end": "2026-04-13T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1113,7 +1205,8 @@
     "docente": "Giusto",
     "start": "2026-04-13T13:30:00+02:00",
     "end": "2026-04-13T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1125,7 +1218,8 @@
     "docente": "Massini",
     "start": "2026-04-14T09:30:00+02:00",
     "end": "2026-04-14T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1137,7 +1231,8 @@
     "docente": "Connell",
     "start": "2026-04-14T11:30:00+02:00",
     "end": "2026-04-14T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1149,7 +1244,8 @@
     "docente": "Giusto",
     "start": "2026-04-14T14:00:00+02:00",
     "end": "2026-04-14T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1161,7 +1257,8 @@
     "docente": "Barboni",
     "start": "2026-04-15T11:00:00+02:00",
     "end": "2026-04-15T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -1173,7 +1270,8 @@
     "docente": "Barboni",
     "start": "2026-04-15T13:30:00+02:00",
     "end": "2026-04-15T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1185,7 +1283,8 @@
     "docente": "Fiaschi",
     "start": "2026-04-15T16:30:00+02:00",
     "end": "2026-04-15T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1197,7 +1296,8 @@
     "docente": "Massini",
     "start": "2026-04-16T09:30:00+02:00",
     "end": "2026-04-16T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -1209,7 +1309,8 @@
     "docente": "Bua",
     "start": "2026-04-16T11:30:00+02:00",
     "end": "2026-04-16T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1221,7 +1322,8 @@
     "docente": "Barboni",
     "start": "2026-04-16T14:00:00+02:00",
     "end": "2026-04-16T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1233,7 +1335,8 @@
     "docente": "Follesa",
     "start": "2026-04-16T14:30:00+02:00",
     "end": "2026-04-16T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1245,7 +1348,8 @@
     "docente": "Carbone",
     "start": "2026-04-18T14:00:00+02:00",
     "end": "2026-04-18T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1257,7 +1361,8 @@
     "docente": "Follesa",
     "start": "2026-04-20T10:00:00+02:00",
     "end": "2026-04-20T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1269,7 +1374,8 @@
     "docente": "Giusto",
     "start": "2026-04-20T13:30:00+02:00",
     "end": "2026-04-20T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1281,7 +1387,8 @@
     "docente": "Massini",
     "start": "2026-04-21T09:30:00+02:00",
     "end": "2026-04-21T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1293,7 +1400,8 @@
     "docente": "Connell",
     "start": "2026-04-21T11:30:00+02:00",
     "end": "2026-04-21T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1305,7 +1413,8 @@
     "docente": "Giusto",
     "start": "2026-04-21T14:00:00+02:00",
     "end": "2026-04-21T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1317,7 +1426,8 @@
     "docente": "Barboni",
     "start": "2026-04-22T11:00:00+02:00",
     "end": "2026-04-22T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -1329,7 +1439,8 @@
     "docente": "Barboni",
     "start": "2026-04-22T13:30:00+02:00",
     "end": "2026-04-22T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1341,7 +1452,8 @@
     "docente": "Fiaschi",
     "start": "2026-04-22T16:30:00+02:00",
     "end": "2026-04-22T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1353,7 +1465,8 @@
     "docente": "Massini",
     "start": "2026-04-23T09:30:00+02:00",
     "end": "2026-04-23T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -1365,7 +1478,8 @@
     "docente": "Bua",
     "start": "2026-04-23T11:30:00+02:00",
     "end": "2026-04-23T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1377,7 +1491,8 @@
     "docente": "Barboni",
     "start": "2026-04-23T14:00:00+02:00",
     "end": "2026-04-23T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1389,7 +1504,8 @@
     "docente": "Follesa",
     "start": "2026-04-23T14:30:00+02:00",
     "end": "2026-04-23T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1401,7 +1517,8 @@
     "docente": "Carbone",
     "start": "2026-04-25T14:00:00+02:00",
     "end": "2026-04-25T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1413,7 +1530,8 @@
     "docente": "Follesa",
     "start": "2026-04-27T10:00:00+02:00",
     "end": "2026-04-27T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1425,7 +1543,8 @@
     "docente": "Giusto",
     "start": "2026-04-27T13:30:00+02:00",
     "end": "2026-04-27T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1437,7 +1556,8 @@
     "docente": "Massini",
     "start": "2026-04-28T09:30:00+02:00",
     "end": "2026-04-28T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1449,7 +1569,8 @@
     "docente": "Connell",
     "start": "2026-04-28T11:30:00+02:00",
     "end": "2026-04-28T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1461,7 +1582,8 @@
     "docente": "Giusto",
     "start": "2026-04-28T14:00:00+02:00",
     "end": "2026-04-28T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1473,7 +1595,8 @@
     "docente": "Barboni",
     "start": "2026-04-29T11:00:00+02:00",
     "end": "2026-04-29T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -1485,7 +1608,8 @@
     "docente": "Barboni",
     "start": "2026-04-29T13:30:00+02:00",
     "end": "2026-04-29T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1497,7 +1621,8 @@
     "docente": "Fiaschi",
     "start": "2026-04-29T16:30:00+02:00",
     "end": "2026-04-29T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1509,7 +1634,8 @@
     "docente": "Massini",
     "start": "2026-04-30T09:30:00+02:00",
     "end": "2026-04-30T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -1521,7 +1647,8 @@
     "docente": "Bua",
     "start": "2026-04-30T11:30:00+02:00",
     "end": "2026-04-30T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1533,7 +1660,8 @@
     "docente": "Barboni",
     "start": "2026-04-30T14:00:00+02:00",
     "end": "2026-04-30T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1545,7 +1673,8 @@
     "docente": "Follesa",
     "start": "2026-04-30T14:30:00+02:00",
     "end": "2026-04-30T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1557,7 +1686,8 @@
     "docente": "Carbone",
     "start": "2026-05-02T14:00:00+02:00",
     "end": "2026-05-02T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1569,7 +1699,8 @@
     "docente": "Follesa",
     "start": "2026-05-04T10:00:00+02:00",
     "end": "2026-05-04T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1581,7 +1712,8 @@
     "docente": "Giusto",
     "start": "2026-05-04T13:30:00+02:00",
     "end": "2026-05-04T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1593,7 +1725,8 @@
     "docente": "Massini",
     "start": "2026-05-05T09:30:00+02:00",
     "end": "2026-05-05T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1605,7 +1738,8 @@
     "docente": "Connell",
     "start": "2026-05-05T11:30:00+02:00",
     "end": "2026-05-05T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1617,7 +1751,8 @@
     "docente": "Giusto",
     "start": "2026-05-05T14:00:00+02:00",
     "end": "2026-05-05T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1629,7 +1764,8 @@
     "docente": "Barboni",
     "start": "2026-05-06T11:00:00+02:00",
     "end": "2026-05-06T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -1641,7 +1777,8 @@
     "docente": "Barboni",
     "start": "2026-05-06T13:30:00+02:00",
     "end": "2026-05-06T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1653,7 +1790,8 @@
     "docente": "Fiaschi",
     "start": "2026-05-06T16:30:00+02:00",
     "end": "2026-05-06T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1665,7 +1803,8 @@
     "docente": "Massini",
     "start": "2026-05-07T09:30:00+02:00",
     "end": "2026-05-07T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -1677,7 +1816,8 @@
     "docente": "Bua",
     "start": "2026-05-07T11:30:00+02:00",
     "end": "2026-05-07T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1689,7 +1829,8 @@
     "docente": "Barboni",
     "start": "2026-05-07T14:00:00+02:00",
     "end": "2026-05-07T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1701,7 +1842,8 @@
     "docente": "Follesa",
     "start": "2026-05-07T14:30:00+02:00",
     "end": "2026-05-07T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1713,7 +1855,8 @@
     "docente": "Carbone",
     "start": "2026-05-09T14:00:00+02:00",
     "end": "2026-05-09T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1725,7 +1868,8 @@
     "docente": "Follesa",
     "start": "2026-05-11T10:00:00+02:00",
     "end": "2026-05-11T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1737,7 +1881,8 @@
     "docente": "Giusto",
     "start": "2026-05-11T13:30:00+02:00",
     "end": "2026-05-11T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1749,7 +1894,8 @@
     "docente": "Massini",
     "start": "2026-05-12T09:30:00+02:00",
     "end": "2026-05-12T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1761,7 +1907,8 @@
     "docente": "Connell",
     "start": "2026-05-12T11:30:00+02:00",
     "end": "2026-05-12T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1773,7 +1920,8 @@
     "docente": "Giusto",
     "start": "2026-05-12T14:00:00+02:00",
     "end": "2026-05-12T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1785,7 +1933,8 @@
     "docente": "Barboni",
     "start": "2026-05-13T11:00:00+02:00",
     "end": "2026-05-13T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -1797,7 +1946,8 @@
     "docente": "Barboni",
     "start": "2026-05-13T13:30:00+02:00",
     "end": "2026-05-13T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1809,7 +1959,8 @@
     "docente": "Fiaschi",
     "start": "2026-05-13T16:30:00+02:00",
     "end": "2026-05-13T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1821,7 +1972,8 @@
     "docente": "Massini",
     "start": "2026-05-14T09:30:00+02:00",
     "end": "2026-05-14T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -1833,7 +1985,8 @@
     "docente": "Bua",
     "start": "2026-05-14T11:30:00+02:00",
     "end": "2026-05-14T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1845,7 +1998,8 @@
     "docente": "Barboni",
     "start": "2026-05-14T14:00:00+02:00",
     "end": "2026-05-14T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1857,7 +2011,8 @@
     "docente": "Follesa",
     "start": "2026-05-14T14:30:00+02:00",
     "end": "2026-05-14T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1869,7 +2024,8 @@
     "docente": "Carbone",
     "start": "2026-05-16T14:00:00+02:00",
     "end": "2026-05-16T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -1881,7 +2037,8 @@
     "docente": "Follesa",
     "start": "2026-05-18T10:00:00+02:00",
     "end": "2026-05-18T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1893,7 +2050,8 @@
     "docente": "Giusto",
     "start": "2026-05-18T13:30:00+02:00",
     "end": "2026-05-18T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1905,7 +2063,8 @@
     "docente": "Massini",
     "start": "2026-05-19T09:30:00+02:00",
     "end": "2026-05-19T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1917,7 +2076,8 @@
     "docente": "Connell",
     "start": "2026-05-19T11:30:00+02:00",
     "end": "2026-05-19T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -1929,7 +2089,8 @@
     "docente": "Giusto",
     "start": "2026-05-19T14:00:00+02:00",
     "end": "2026-05-19T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -1941,7 +2102,8 @@
     "docente": "Barboni",
     "start": "2026-05-20T11:00:00+02:00",
     "end": "2026-05-20T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -1953,7 +2115,8 @@
     "docente": "Barboni",
     "start": "2026-05-20T13:30:00+02:00",
     "end": "2026-05-20T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1965,7 +2128,8 @@
     "docente": "Fiaschi",
     "start": "2026-05-20T16:30:00+02:00",
     "end": "2026-05-20T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -1977,7 +2141,8 @@
     "docente": "Massini",
     "start": "2026-05-21T09:30:00+02:00",
     "end": "2026-05-21T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -1989,7 +2154,8 @@
     "docente": "Bua",
     "start": "2026-05-21T11:30:00+02:00",
     "end": "2026-05-21T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -2001,7 +2167,8 @@
     "docente": "Barboni",
     "start": "2026-05-21T14:00:00+02:00",
     "end": "2026-05-21T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -2013,7 +2180,8 @@
     "docente": "Follesa",
     "start": "2026-05-21T14:30:00+02:00",
     "end": "2026-05-21T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2025,7 +2193,8 @@
     "docente": "Carbone",
     "start": "2026-05-23T14:00:00+02:00",
     "end": "2026-05-23T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -2037,7 +2206,8 @@
     "docente": "Follesa",
     "start": "2026-05-25T10:00:00+02:00",
     "end": "2026-05-25T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -2049,7 +2219,8 @@
     "docente": "Giusto",
     "start": "2026-05-25T13:30:00+02:00",
     "end": "2026-05-25T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -2061,7 +2232,8 @@
     "docente": "Massini",
     "start": "2026-05-26T09:30:00+02:00",
     "end": "2026-05-26T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2073,7 +2245,8 @@
     "docente": "Connell",
     "start": "2026-05-26T11:30:00+02:00",
     "end": "2026-05-26T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -2085,7 +2258,8 @@
     "docente": "Giusto",
     "start": "2026-05-26T14:00:00+02:00",
     "end": "2026-05-26T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -2097,7 +2271,8 @@
     "docente": "Barboni",
     "start": "2026-05-27T11:00:00+02:00",
     "end": "2026-05-27T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -2109,7 +2284,8 @@
     "docente": "Barboni",
     "start": "2026-05-27T13:30:00+02:00",
     "end": "2026-05-27T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2121,7 +2297,8 @@
     "docente": "Fiaschi",
     "start": "2026-05-27T16:30:00+02:00",
     "end": "2026-05-27T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -2133,7 +2310,8 @@
     "docente": "Massini",
     "start": "2026-05-28T09:30:00+02:00",
     "end": "2026-05-28T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -2145,7 +2323,8 @@
     "docente": "Bua",
     "start": "2026-05-28T11:30:00+02:00",
     "end": "2026-05-28T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -2157,7 +2336,8 @@
     "docente": "Barboni",
     "start": "2026-05-28T14:00:00+02:00",
     "end": "2026-05-28T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -2169,7 +2349,8 @@
     "docente": "Follesa",
     "start": "2026-05-28T14:30:00+02:00",
     "end": "2026-05-28T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2181,7 +2362,8 @@
     "docente": "Carbone",
     "start": "2026-05-30T14:00:00+02:00",
     "end": "2026-05-30T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -2193,7 +2375,8 @@
     "docente": "Follesa",
     "start": "2026-06-01T10:00:00+02:00",
     "end": "2026-06-01T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -2205,7 +2388,8 @@
     "docente": "Giusto",
     "start": "2026-06-01T13:30:00+02:00",
     "end": "2026-06-01T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -2217,7 +2401,8 @@
     "docente": "Massini",
     "start": "2026-06-02T09:30:00+02:00",
     "end": "2026-06-02T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2229,7 +2414,8 @@
     "docente": "Connell",
     "start": "2026-06-02T11:30:00+02:00",
     "end": "2026-06-02T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Design 3",
@@ -2241,7 +2427,8 @@
     "docente": "Giusto",
     "start": "2026-06-02T14:00:00+02:00",
     "end": "2026-06-02T18:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -2253,7 +2440,8 @@
     "docente": "Barboni",
     "start": "2026-06-03T11:00:00+02:00",
     "end": "2026-06-03T13:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Ecodesign",
@@ -2265,7 +2453,8 @@
     "docente": "Barboni",
     "start": "2026-06-03T13:30:00+02:00",
     "end": "2026-06-03T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2277,7 +2466,8 @@
     "docente": "Fiaschi",
     "start": "2026-06-03T16:30:00+02:00",
     "end": "2026-06-03T18:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Rendering 3D",
@@ -2289,7 +2479,8 @@
     "docente": "Massini",
     "start": "2026-06-04T09:30:00+02:00",
     "end": "2026-06-04T11:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Storia del Design e dell'Architettura",
@@ -2301,7 +2492,8 @@
     "docente": "Bua",
     "start": "2026-06-04T11:30:00+02:00",
     "end": "2026-06-04T13:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Product Design 2",
@@ -2313,7 +2505,8 @@
     "docente": "Barboni",
     "start": "2026-06-04T14:00:00+02:00",
     "end": "2026-06-04T16:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   },
   {
     "corso": "Architettura degli Interni 3",
@@ -2325,6 +2518,7 @@
     "docente": "Follesa",
     "start": "2026-06-04T14:30:00+02:00",
     "end": "2026-06-04T17:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "DESIGN"
   }
 ]

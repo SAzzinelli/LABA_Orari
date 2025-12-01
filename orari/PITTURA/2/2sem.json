@@ -9,7 +9,8 @@
     "docente": "Caciolli",
     "start": "2026-02-23T10:30:00+01:00",
     "end": "2026-02-23T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -21,7 +22,8 @@
     "docente": "Vanni",
     "start": "2026-02-23T13:00:00+01:00",
     "end": "2026-02-23T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -33,7 +35,8 @@
     "docente": "Caciolli",
     "start": "2026-03-02T10:30:00+01:00",
     "end": "2026-03-02T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -45,7 +48,8 @@
     "docente": "Vanni",
     "start": "2026-03-02T13:00:00+01:00",
     "end": "2026-03-02T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -57,7 +61,8 @@
     "docente": "Caciolli",
     "start": "2026-03-09T10:30:00+01:00",
     "end": "2026-03-09T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -69,7 +74,8 @@
     "docente": "Vanni",
     "start": "2026-03-09T13:00:00+01:00",
     "end": "2026-03-09T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -81,7 +87,8 @@
     "docente": "Caciolli",
     "start": "2026-03-16T10:30:00+01:00",
     "end": "2026-03-16T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -93,7 +100,8 @@
     "docente": "Vanni",
     "start": "2026-03-16T13:00:00+01:00",
     "end": "2026-03-16T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -105,7 +113,8 @@
     "docente": "Caciolli",
     "start": "2026-03-23T10:30:00+01:00",
     "end": "2026-03-23T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -117,7 +126,8 @@
     "docente": "Vanni",
     "start": "2026-03-23T13:00:00+01:00",
     "end": "2026-03-23T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -129,7 +139,8 @@
     "docente": "Caciolli",
     "start": "2026-03-30T10:30:00+02:00",
     "end": "2026-03-30T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -141,7 +152,8 @@
     "docente": "Vanni",
     "start": "2026-03-30T13:00:00+02:00",
     "end": "2026-03-30T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -153,7 +165,8 @@
     "docente": "Caciolli",
     "start": "2026-04-06T10:30:00+02:00",
     "end": "2026-04-06T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -165,7 +178,8 @@
     "docente": "Vanni",
     "start": "2026-04-06T13:00:00+02:00",
     "end": "2026-04-06T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -177,7 +191,8 @@
     "docente": "Caciolli",
     "start": "2026-04-13T10:30:00+02:00",
     "end": "2026-04-13T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -189,7 +204,8 @@
     "docente": "Vanni",
     "start": "2026-04-13T13:00:00+02:00",
     "end": "2026-04-13T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -201,7 +217,8 @@
     "docente": "Caciolli",
     "start": "2026-04-20T10:30:00+02:00",
     "end": "2026-04-20T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -213,7 +230,8 @@
     "docente": "Vanni",
     "start": "2026-04-20T13:00:00+02:00",
     "end": "2026-04-20T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -225,7 +243,8 @@
     "docente": "Caciolli",
     "start": "2026-04-27T10:30:00+02:00",
     "end": "2026-04-27T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -237,7 +256,8 @@
     "docente": "Vanni",
     "start": "2026-04-27T13:00:00+02:00",
     "end": "2026-04-27T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -249,7 +269,8 @@
     "docente": "Caciolli",
     "start": "2026-05-04T10:30:00+02:00",
     "end": "2026-05-04T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -261,7 +282,8 @@
     "docente": "Vanni",
     "start": "2026-05-04T13:00:00+02:00",
     "end": "2026-05-04T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -273,7 +295,8 @@
     "docente": "Caciolli",
     "start": "2026-05-11T10:30:00+02:00",
     "end": "2026-05-11T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -285,7 +308,8 @@
     "docente": "Vanni",
     "start": "2026-05-11T13:00:00+02:00",
     "end": "2026-05-11T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -297,7 +321,8 @@
     "docente": "Caciolli",
     "start": "2026-05-18T10:30:00+02:00",
     "end": "2026-05-18T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -309,7 +334,8 @@
     "docente": "Vanni",
     "start": "2026-05-18T13:00:00+02:00",
     "end": "2026-05-18T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -321,7 +347,8 @@
     "docente": "Caciolli",
     "start": "2026-05-25T10:30:00+02:00",
     "end": "2026-05-25T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -333,7 +360,8 @@
     "docente": "Vanni",
     "start": "2026-05-25T13:00:00+02:00",
     "end": "2026-05-25T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Semiotica dell'Arte",
@@ -345,7 +373,8 @@
     "docente": "Caciolli",
     "start": "2026-06-01T10:30:00+02:00",
     "end": "2026-06-01T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -357,7 +386,8 @@
     "docente": "Vanni",
     "start": "2026-06-01T13:00:00+02:00",
     "end": "2026-06-01T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -369,7 +399,8 @@
     "docente": "Lisi",
     "start": "2026-02-25T09:00:00+01:00",
     "end": "2026-02-25T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -381,7 +412,8 @@
     "docente": "Macchi",
     "start": "2026-02-25T12:30:00+01:00",
     "end": "2026-02-25T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -393,7 +425,8 @@
     "docente": "Lisi",
     "start": "2026-03-04T09:00:00+01:00",
     "end": "2026-03-04T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -405,7 +438,8 @@
     "docente": "Macchi",
     "start": "2026-03-04T12:30:00+01:00",
     "end": "2026-03-04T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -417,7 +451,8 @@
     "docente": "Lisi",
     "start": "2026-03-11T09:00:00+01:00",
     "end": "2026-03-11T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -429,7 +464,8 @@
     "docente": "Macchi",
     "start": "2026-03-11T12:30:00+01:00",
     "end": "2026-03-11T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -441,7 +477,8 @@
     "docente": "Lisi",
     "start": "2026-03-18T09:00:00+01:00",
     "end": "2026-03-18T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -453,7 +490,8 @@
     "docente": "Macchi",
     "start": "2026-03-18T12:30:00+01:00",
     "end": "2026-03-18T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -465,7 +503,8 @@
     "docente": "Lisi",
     "start": "2026-03-25T09:00:00+01:00",
     "end": "2026-03-25T12:00:00+01:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -477,7 +516,8 @@
     "docente": "Macchi",
     "start": "2026-03-25T12:30:00+01:00",
     "end": "2026-03-25T16:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -489,7 +529,8 @@
     "docente": "Lisi",
     "start": "2026-04-01T09:00:00+02:00",
     "end": "2026-04-01T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -501,7 +542,8 @@
     "docente": "Macchi",
     "start": "2026-04-01T12:30:00+02:00",
     "end": "2026-04-01T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -513,7 +555,8 @@
     "docente": "Lisi",
     "start": "2026-04-08T09:00:00+02:00",
     "end": "2026-04-08T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -525,7 +568,8 @@
     "docente": "Macchi",
     "start": "2026-04-08T12:30:00+02:00",
     "end": "2026-04-08T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -537,7 +581,8 @@
     "docente": "Lisi",
     "start": "2026-04-15T09:00:00+02:00",
     "end": "2026-04-15T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -549,7 +594,8 @@
     "docente": "Macchi",
     "start": "2026-04-15T12:30:00+02:00",
     "end": "2026-04-15T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -561,7 +607,8 @@
     "docente": "Lisi",
     "start": "2026-04-22T09:00:00+02:00",
     "end": "2026-04-22T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -573,7 +620,8 @@
     "docente": "Macchi",
     "start": "2026-04-22T12:30:00+02:00",
     "end": "2026-04-22T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -585,7 +633,8 @@
     "docente": "Lisi",
     "start": "2026-04-29T09:00:00+02:00",
     "end": "2026-04-29T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -597,7 +646,8 @@
     "docente": "Macchi",
     "start": "2026-04-29T12:30:00+02:00",
     "end": "2026-04-29T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -609,7 +659,8 @@
     "docente": "Lisi",
     "start": "2026-05-06T09:00:00+02:00",
     "end": "2026-05-06T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -621,7 +672,8 @@
     "docente": "Macchi",
     "start": "2026-05-06T12:30:00+02:00",
     "end": "2026-05-06T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -633,7 +685,8 @@
     "docente": "Lisi",
     "start": "2026-05-13T09:00:00+02:00",
     "end": "2026-05-13T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -645,7 +698,8 @@
     "docente": "Macchi",
     "start": "2026-05-13T12:30:00+02:00",
     "end": "2026-05-13T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -657,7 +711,8 @@
     "docente": "Lisi",
     "start": "2026-05-20T09:00:00+02:00",
     "end": "2026-05-20T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -669,7 +724,8 @@
     "docente": "Macchi",
     "start": "2026-05-20T12:30:00+02:00",
     "end": "2026-05-20T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -681,7 +737,8 @@
     "docente": "Lisi",
     "start": "2026-05-27T09:00:00+02:00",
     "end": "2026-05-27T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -693,7 +750,8 @@
     "docente": "Macchi",
     "start": "2026-05-27T12:30:00+02:00",
     "end": "2026-05-27T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -705,7 +763,8 @@
     "docente": "Lisi",
     "start": "2026-06-03T09:00:00+02:00",
     "end": "2026-06-03T12:00:00+02:00",
-    "note": "portatili"
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 2",
@@ -717,7 +776,8 @@
     "docente": "Macchi",
     "start": "2026-06-03T12:30:00+02:00",
     "end": "2026-06-03T16:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -729,7 +789,8 @@
     "docente": "Vivarelli",
     "start": "2026-02-26T08:30:00+01:00",
     "end": "2026-02-26T11:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -741,7 +802,8 @@
     "docente": "Vanni",
     "start": "2026-02-26T13:00:00+01:00",
     "end": "2026-02-26T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -753,7 +815,8 @@
     "docente": "Vivarelli",
     "start": "2026-03-05T08:30:00+01:00",
     "end": "2026-03-05T11:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -765,7 +828,8 @@
     "docente": "Vanni",
     "start": "2026-03-05T13:00:00+01:00",
     "end": "2026-03-05T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -777,7 +841,8 @@
     "docente": "Vivarelli",
     "start": "2026-03-12T08:30:00+01:00",
     "end": "2026-03-12T11:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -789,7 +854,8 @@
     "docente": "Vanni",
     "start": "2026-03-12T13:00:00+01:00",
     "end": "2026-03-12T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -801,7 +867,8 @@
     "docente": "Vivarelli",
     "start": "2026-03-19T08:30:00+01:00",
     "end": "2026-03-19T11:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -813,7 +880,8 @@
     "docente": "Vanni",
     "start": "2026-03-19T13:00:00+01:00",
     "end": "2026-03-19T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -825,7 +893,8 @@
     "docente": "Vivarelli",
     "start": "2026-03-26T08:30:00+01:00",
     "end": "2026-03-26T11:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -837,7 +906,8 @@
     "docente": "Vanni",
     "start": "2026-03-26T13:00:00+01:00",
     "end": "2026-03-26T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -849,7 +919,8 @@
     "docente": "Vivarelli",
     "start": "2026-04-02T08:30:00+02:00",
     "end": "2026-04-02T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -861,7 +932,8 @@
     "docente": "Vanni",
     "start": "2026-04-02T13:00:00+02:00",
     "end": "2026-04-02T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -873,7 +945,8 @@
     "docente": "Vivarelli",
     "start": "2026-04-09T08:30:00+02:00",
     "end": "2026-04-09T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -885,7 +958,8 @@
     "docente": "Vanni",
     "start": "2026-04-09T13:00:00+02:00",
     "end": "2026-04-09T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -897,7 +971,8 @@
     "docente": "Vivarelli",
     "start": "2026-04-16T08:30:00+02:00",
     "end": "2026-04-16T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -909,7 +984,8 @@
     "docente": "Vanni",
     "start": "2026-04-16T13:00:00+02:00",
     "end": "2026-04-16T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -921,7 +997,8 @@
     "docente": "Vivarelli",
     "start": "2026-04-23T08:30:00+02:00",
     "end": "2026-04-23T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -933,7 +1010,8 @@
     "docente": "Vanni",
     "start": "2026-04-23T13:00:00+02:00",
     "end": "2026-04-23T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -945,7 +1023,8 @@
     "docente": "Vivarelli",
     "start": "2026-04-30T08:30:00+02:00",
     "end": "2026-04-30T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -957,7 +1036,8 @@
     "docente": "Vanni",
     "start": "2026-04-30T13:00:00+02:00",
     "end": "2026-04-30T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -969,7 +1049,8 @@
     "docente": "Vivarelli",
     "start": "2026-05-07T08:30:00+02:00",
     "end": "2026-05-07T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -981,7 +1062,8 @@
     "docente": "Vanni",
     "start": "2026-05-07T13:00:00+02:00",
     "end": "2026-05-07T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -993,7 +1075,8 @@
     "docente": "Vivarelli",
     "start": "2026-05-14T08:30:00+02:00",
     "end": "2026-05-14T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1005,7 +1088,8 @@
     "docente": "Vanni",
     "start": "2026-05-14T13:00:00+02:00",
     "end": "2026-05-14T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -1017,7 +1101,8 @@
     "docente": "Vivarelli",
     "start": "2026-05-21T08:30:00+02:00",
     "end": "2026-05-21T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1029,7 +1114,8 @@
     "docente": "Vanni",
     "start": "2026-05-21T13:00:00+02:00",
     "end": "2026-05-21T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -1041,7 +1127,8 @@
     "docente": "Vivarelli",
     "start": "2026-05-28T08:30:00+02:00",
     "end": "2026-05-28T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1053,7 +1140,8 @@
     "docente": "Vanni",
     "start": "2026-05-28T13:00:00+02:00",
     "end": "2026-05-28T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Moderna",
@@ -1065,7 +1153,8 @@
     "docente": "Vivarelli",
     "start": "2026-06-04T08:30:00+02:00",
     "end": "2026-06-04T11:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1077,7 +1166,8 @@
     "docente": "Vanni",
     "start": "2026-06-04T13:00:00+02:00",
     "end": "2026-06-04T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1089,7 +1179,8 @@
     "docente": "Iannella",
     "start": "2026-02-27T09:30:00+01:00",
     "end": "2026-02-27T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1101,7 +1192,8 @@
     "docente": "Iannella",
     "start": "2026-03-06T09:30:00+01:00",
     "end": "2026-03-06T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1113,7 +1205,8 @@
     "docente": "Iannella",
     "start": "2026-03-13T09:30:00+01:00",
     "end": "2026-03-13T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1125,7 +1218,8 @@
     "docente": "Iannella",
     "start": "2026-03-20T09:30:00+01:00",
     "end": "2026-03-20T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1137,7 +1231,8 @@
     "docente": "Iannella",
     "start": "2026-03-27T09:30:00+01:00",
     "end": "2026-03-27T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1149,7 +1244,8 @@
     "docente": "Iannella",
     "start": "2026-04-03T09:30:00+02:00",
     "end": "2026-04-03T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1161,7 +1257,8 @@
     "docente": "Iannella",
     "start": "2026-04-10T09:30:00+02:00",
     "end": "2026-04-10T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1173,7 +1270,8 @@
     "docente": "Iannella",
     "start": "2026-04-17T09:30:00+02:00",
     "end": "2026-04-17T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1185,7 +1283,8 @@
     "docente": "Iannella",
     "start": "2026-04-24T09:30:00+02:00",
     "end": "2026-04-24T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1197,7 +1296,8 @@
     "docente": "Iannella",
     "start": "2026-05-01T09:30:00+02:00",
     "end": "2026-05-01T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1209,7 +1309,8 @@
     "docente": "Iannella",
     "start": "2026-05-08T09:30:00+02:00",
     "end": "2026-05-08T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1221,7 +1322,8 @@
     "docente": "Iannella",
     "start": "2026-05-15T09:30:00+02:00",
     "end": "2026-05-15T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1233,7 +1335,8 @@
     "docente": "Iannella",
     "start": "2026-05-22T09:30:00+02:00",
     "end": "2026-05-22T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1245,7 +1348,8 @@
     "docente": "Iannella",
     "start": "2026-05-29T09:30:00+02:00",
     "end": "2026-05-29T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Anatomia dell'Immagine 2",
@@ -1257,7 +1361,8 @@
     "docente": "Iannella",
     "start": "2026-06-05T09:30:00+02:00",
     "end": "2026-06-05T12:30:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1269,7 +1374,8 @@
     "docente": "Carbone",
     "start": "2026-02-28T13:00:00+01:00",
     "end": "2026-02-28T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1281,7 +1387,8 @@
     "docente": "Carbone",
     "start": "2026-03-07T13:00:00+01:00",
     "end": "2026-03-07T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1293,7 +1400,8 @@
     "docente": "Carbone",
     "start": "2026-03-14T13:00:00+01:00",
     "end": "2026-03-14T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1305,7 +1413,8 @@
     "docente": "Carbone",
     "start": "2026-03-21T13:00:00+01:00",
     "end": "2026-03-21T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1317,7 +1426,8 @@
     "docente": "Carbone",
     "start": "2026-03-28T13:00:00+01:00",
     "end": "2026-03-28T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1329,7 +1439,8 @@
     "docente": "Carbone",
     "start": "2026-04-04T13:00:00+02:00",
     "end": "2026-04-04T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1341,7 +1452,8 @@
     "docente": "Carbone",
     "start": "2026-04-11T13:00:00+02:00",
     "end": "2026-04-11T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1353,7 +1465,8 @@
     "docente": "Carbone",
     "start": "2026-04-18T13:00:00+02:00",
     "end": "2026-04-18T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1365,7 +1478,8 @@
     "docente": "Carbone",
     "start": "2026-04-25T13:00:00+02:00",
     "end": "2026-04-25T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1377,7 +1491,8 @@
     "docente": "Carbone",
     "start": "2026-05-02T13:00:00+02:00",
     "end": "2026-05-02T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1389,7 +1504,8 @@
     "docente": "Carbone",
     "start": "2026-05-09T13:00:00+02:00",
     "end": "2026-05-09T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1401,7 +1517,8 @@
     "docente": "Carbone",
     "start": "2026-05-16T13:00:00+02:00",
     "end": "2026-05-16T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1413,7 +1530,8 @@
     "docente": "Carbone",
     "start": "2026-05-23T13:00:00+02:00",
     "end": "2026-05-23T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1425,6 +1543,7 @@
     "docente": "Carbone",
     "start": "2026-05-30T13:00:00+02:00",
     "end": "2026-05-30T17:00:00+02:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "PITTURA"
   }
 ]

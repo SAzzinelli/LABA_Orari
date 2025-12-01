@@ -9,7 +9,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-04T08:30:00+01:00",
     "end": "2025-11-04T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -21,7 +22,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-04T13:00:00+01:00",
     "end": "2025-11-04T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -33,7 +35,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-11T08:30:00+01:00",
     "end": "2025-11-11T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -45,7 +48,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-11T13:00:00+01:00",
     "end": "2025-11-11T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -57,7 +61,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-18T08:30:00+01:00",
     "end": "2025-11-18T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -69,7 +74,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-18T13:00:00+01:00",
     "end": "2025-11-18T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -81,7 +87,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-25T08:30:00+01:00",
     "end": "2025-11-25T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -93,7 +100,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-25T13:00:00+01:00",
     "end": "2025-11-25T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -105,7 +113,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-02T08:30:00+01:00",
     "end": "2025-12-02T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -117,7 +126,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-02T13:00:00+01:00",
     "end": "2025-12-02T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -129,7 +139,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-09T08:30:00+01:00",
     "end": "2025-12-09T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -141,7 +152,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-09T13:00:00+01:00",
     "end": "2025-12-09T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -153,7 +165,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-16T08:30:00+01:00",
     "end": "2025-12-16T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -165,7 +178,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-16T13:00:00+01:00",
     "end": "2025-12-16T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -177,7 +191,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-23T08:30:00+01:00",
     "end": "2025-12-23T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -189,7 +204,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-23T13:00:00+01:00",
     "end": "2025-12-23T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -201,7 +217,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-30T08:30:00+01:00",
     "end": "2025-12-30T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -213,7 +230,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-30T13:00:00+01:00",
     "end": "2025-12-30T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -225,7 +243,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-06T08:30:00+01:00",
     "end": "2026-01-06T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -237,7 +256,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-06T13:00:00+01:00",
     "end": "2026-01-06T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -249,7 +269,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-13T08:30:00+01:00",
     "end": "2026-01-13T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -261,7 +282,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-13T13:00:00+01:00",
     "end": "2026-01-13T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -273,7 +295,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-20T08:30:00+01:00",
     "end": "2026-01-20T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -285,7 +308,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-20T13:00:00+01:00",
     "end": "2026-01-20T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -297,7 +321,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-27T08:30:00+01:00",
     "end": "2026-01-27T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -309,7 +334,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-27T13:00:00+01:00",
     "end": "2026-01-27T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -321,7 +347,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-02-03T08:30:00+01:00",
     "end": "2026-02-03T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -333,7 +360,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-02-03T13:00:00+01:00",
     "end": "2026-02-03T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -345,7 +373,8 @@
     "docente": "Fiaschi",
     "start": "2025-11-05T08:30:00+01:00",
     "end": "2025-11-05T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -357,7 +386,8 @@
     "docente": "Connell",
     "start": "2025-11-05T10:30:00+01:00",
     "end": "2025-11-05T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -369,7 +399,8 @@
     "docente": "Guaita",
     "start": "2025-11-05T13:00:00+01:00",
     "end": "2025-11-05T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -381,7 +412,8 @@
     "docente": "Fiaschi",
     "start": "2025-11-12T08:30:00+01:00",
     "end": "2025-11-12T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -393,7 +425,8 @@
     "docente": "Connell",
     "start": "2025-11-12T10:30:00+01:00",
     "end": "2025-11-12T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -405,7 +438,8 @@
     "docente": "Guaita",
     "start": "2025-11-12T13:00:00+01:00",
     "end": "2025-11-12T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -417,7 +451,8 @@
     "docente": "Fiaschi",
     "start": "2025-11-19T08:30:00+01:00",
     "end": "2025-11-19T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -429,7 +464,8 @@
     "docente": "Connell",
     "start": "2025-11-19T10:30:00+01:00",
     "end": "2025-11-19T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -441,7 +477,8 @@
     "docente": "Guaita",
     "start": "2025-11-19T13:00:00+01:00",
     "end": "2025-11-19T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -453,7 +490,8 @@
     "docente": "Fiaschi",
     "start": "2025-11-26T08:30:00+01:00",
     "end": "2025-11-26T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -465,7 +503,8 @@
     "docente": "Connell",
     "start": "2025-11-26T10:30:00+01:00",
     "end": "2025-11-26T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -477,7 +516,8 @@
     "docente": "Guaita",
     "start": "2025-11-26T13:00:00+01:00",
     "end": "2025-11-26T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -489,7 +529,8 @@
     "docente": "Fiaschi",
     "start": "2025-12-03T08:30:00+01:00",
     "end": "2025-12-03T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -501,7 +542,8 @@
     "docente": "Connell",
     "start": "2025-12-03T10:30:00+01:00",
     "end": "2025-12-03T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -513,7 +555,8 @@
     "docente": "Guaita",
     "start": "2025-12-03T13:00:00+01:00",
     "end": "2025-12-03T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -525,7 +568,8 @@
     "docente": "Fiaschi",
     "start": "2025-12-10T08:30:00+01:00",
     "end": "2025-12-10T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -537,7 +581,8 @@
     "docente": "Connell",
     "start": "2025-12-10T10:30:00+01:00",
     "end": "2025-12-10T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -549,7 +594,8 @@
     "docente": "Guaita",
     "start": "2025-12-10T13:00:00+01:00",
     "end": "2025-12-10T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -561,7 +607,8 @@
     "docente": "Fiaschi",
     "start": "2025-12-17T08:30:00+01:00",
     "end": "2025-12-17T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -573,7 +620,8 @@
     "docente": "Connell",
     "start": "2025-12-17T10:30:00+01:00",
     "end": "2025-12-17T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -585,7 +633,8 @@
     "docente": "Guaita",
     "start": "2025-12-17T13:00:00+01:00",
     "end": "2025-12-17T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -597,7 +646,8 @@
     "docente": "Fiaschi",
     "start": "2025-12-24T08:30:00+01:00",
     "end": "2025-12-24T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -609,7 +659,8 @@
     "docente": "Connell",
     "start": "2025-12-24T10:30:00+01:00",
     "end": "2025-12-24T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -621,7 +672,8 @@
     "docente": "Guaita",
     "start": "2025-12-24T13:00:00+01:00",
     "end": "2025-12-24T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -633,7 +685,8 @@
     "docente": "Fiaschi",
     "start": "2025-12-31T08:30:00+01:00",
     "end": "2025-12-31T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -645,7 +698,8 @@
     "docente": "Connell",
     "start": "2025-12-31T10:30:00+01:00",
     "end": "2025-12-31T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -657,7 +711,8 @@
     "docente": "Guaita",
     "start": "2025-12-31T13:00:00+01:00",
     "end": "2025-12-31T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -669,7 +724,8 @@
     "docente": "Fiaschi",
     "start": "2026-01-07T08:30:00+01:00",
     "end": "2026-01-07T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -681,7 +737,8 @@
     "docente": "Connell",
     "start": "2026-01-07T10:30:00+01:00",
     "end": "2026-01-07T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -693,7 +750,8 @@
     "docente": "Guaita",
     "start": "2026-01-07T13:00:00+01:00",
     "end": "2026-01-07T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -705,7 +763,8 @@
     "docente": "Fiaschi",
     "start": "2026-01-14T08:30:00+01:00",
     "end": "2026-01-14T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -717,7 +776,8 @@
     "docente": "Connell",
     "start": "2026-01-14T10:30:00+01:00",
     "end": "2026-01-14T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -729,7 +789,8 @@
     "docente": "Guaita",
     "start": "2026-01-14T13:00:00+01:00",
     "end": "2026-01-14T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -741,7 +802,8 @@
     "docente": "Fiaschi",
     "start": "2026-01-21T08:30:00+01:00",
     "end": "2026-01-21T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -753,7 +815,8 @@
     "docente": "Connell",
     "start": "2026-01-21T10:30:00+01:00",
     "end": "2026-01-21T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -765,7 +828,8 @@
     "docente": "Guaita",
     "start": "2026-01-21T13:00:00+01:00",
     "end": "2026-01-21T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -777,7 +841,8 @@
     "docente": "Fiaschi",
     "start": "2026-01-28T08:30:00+01:00",
     "end": "2026-01-28T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -789,7 +854,8 @@
     "docente": "Connell",
     "start": "2026-01-28T10:30:00+01:00",
     "end": "2026-01-28T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -801,7 +867,8 @@
     "docente": "Guaita",
     "start": "2026-01-28T13:00:00+01:00",
     "end": "2026-01-28T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -813,7 +880,8 @@
     "docente": "Fiaschi",
     "start": "2026-02-04T08:30:00+01:00",
     "end": "2026-02-04T10:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -825,7 +893,8 @@
     "docente": "Connell",
     "start": "2026-02-04T10:30:00+01:00",
     "end": "2026-02-04T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Filosofia dell'Arte",
@@ -837,7 +906,8 @@
     "docente": "Guaita",
     "start": "2026-02-04T13:00:00+01:00",
     "end": "2026-02-04T15:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -849,7 +919,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-07T08:30:00+01:00",
     "end": "2025-11-07T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -861,7 +932,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-14T08:30:00+01:00",
     "end": "2025-11-14T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -873,7 +945,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-21T08:30:00+01:00",
     "end": "2025-11-21T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -885,7 +958,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-11-28T08:30:00+01:00",
     "end": "2025-11-28T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -897,7 +971,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-05T08:30:00+01:00",
     "end": "2025-12-05T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -909,7 +984,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-12T08:30:00+01:00",
     "end": "2025-12-12T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -921,7 +997,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-19T08:30:00+01:00",
     "end": "2025-12-19T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -933,7 +1010,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2025-12-26T08:30:00+01:00",
     "end": "2025-12-26T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -945,7 +1023,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-02T08:30:00+01:00",
     "end": "2026-01-02T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -957,7 +1036,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-09T08:30:00+01:00",
     "end": "2026-01-09T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -969,7 +1049,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-16T08:30:00+01:00",
     "end": "2026-01-16T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -981,7 +1062,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-23T08:30:00+01:00",
     "end": "2026-01-23T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -993,7 +1075,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-01-30T08:30:00+01:00",
     "end": "2026-01-30T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Graphic Design 3",
@@ -1005,7 +1088,8 @@
     "docente": "Di Lella / Corsi",
     "start": "2026-02-06T08:30:00+01:00",
     "end": "2026-02-06T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1017,7 +1101,8 @@
     "docente": "Carbone",
     "start": "2025-11-08T13:00:00+01:00",
     "end": "2025-11-08T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1029,7 +1114,8 @@
     "docente": "Carbone",
     "start": "2025-11-15T13:00:00+01:00",
     "end": "2025-11-15T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1041,7 +1127,8 @@
     "docente": "Carbone",
     "start": "2025-11-22T13:00:00+01:00",
     "end": "2025-11-22T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1053,7 +1140,8 @@
     "docente": "Carbone",
     "start": "2025-11-29T13:00:00+01:00",
     "end": "2025-11-29T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1065,7 +1153,8 @@
     "docente": "Carbone",
     "start": "2025-12-06T13:00:00+01:00",
     "end": "2025-12-06T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1077,7 +1166,8 @@
     "docente": "Carbone",
     "start": "2025-12-13T13:00:00+01:00",
     "end": "2025-12-13T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1089,7 +1179,8 @@
     "docente": "Carbone",
     "start": "2025-12-20T13:00:00+01:00",
     "end": "2025-12-20T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1101,7 +1192,8 @@
     "docente": "Carbone",
     "start": "2025-12-27T13:00:00+01:00",
     "end": "2025-12-27T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1113,7 +1205,8 @@
     "docente": "Carbone",
     "start": "2026-01-03T13:00:00+01:00",
     "end": "2026-01-03T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1125,7 +1218,8 @@
     "docente": "Carbone",
     "start": "2026-01-10T13:00:00+01:00",
     "end": "2026-01-10T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1137,7 +1231,8 @@
     "docente": "Carbone",
     "start": "2026-01-17T13:00:00+01:00",
     "end": "2026-01-17T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1149,7 +1244,8 @@
     "docente": "Carbone",
     "start": "2026-01-24T13:00:00+01:00",
     "end": "2026-01-24T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1161,7 +1257,8 @@
     "docente": "Carbone",
     "start": "2026-01-31T13:00:00+01:00",
     "end": "2026-01-31T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1173,6 +1270,7 @@
     "docente": "Carbone",
     "start": "2026-02-07T13:00:00+01:00",
     "end": "2026-02-07T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "GRAPHIC_DESIGN"
   }
 ]

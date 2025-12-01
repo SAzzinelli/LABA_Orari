@@ -9,7 +9,8 @@
     "docente": "Citi",
     "start": "2025-11-03T10:00:00+01:00",
     "end": "2025-11-03T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -21,7 +22,8 @@
     "docente": "Iannello",
     "start": "2025-11-04T11:30:00+01:00",
     "end": "2025-11-04T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -33,7 +35,8 @@
     "docente": "Corvino",
     "start": "2025-11-05T09:30:00+01:00",
     "end": "2025-11-05T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -45,7 +48,8 @@
     "docente": "Corvino",
     "start": "2025-11-05T13:00:00+01:00",
     "end": "2025-11-05T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -57,7 +61,8 @@
     "docente": "Massini",
     "start": "2025-11-06T14:00:00+01:00",
     "end": "2025-11-06T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -69,7 +74,8 @@
     "docente": "Carbone",
     "start": "2025-11-08T14:00:00+01:00",
     "end": "2025-11-08T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -81,7 +87,8 @@
     "docente": "Citi",
     "start": "2025-11-10T10:00:00+01:00",
     "end": "2025-11-10T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -93,7 +100,8 @@
     "docente": "Iannello",
     "start": "2025-11-11T11:30:00+01:00",
     "end": "2025-11-11T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -105,7 +113,8 @@
     "docente": "Corvino",
     "start": "2025-11-12T09:30:00+01:00",
     "end": "2025-11-12T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -117,7 +126,8 @@
     "docente": "Corvino",
     "start": "2025-11-12T13:00:00+01:00",
     "end": "2025-11-12T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -129,7 +139,8 @@
     "docente": "Massini",
     "start": "2025-11-13T14:00:00+01:00",
     "end": "2025-11-13T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -141,7 +152,8 @@
     "docente": "Carbone",
     "start": "2025-11-15T14:00:00+01:00",
     "end": "2025-11-15T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -153,7 +165,8 @@
     "docente": "Citi",
     "start": "2025-11-17T10:00:00+01:00",
     "end": "2025-11-17T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -165,7 +178,8 @@
     "docente": "Iannello",
     "start": "2025-11-18T11:30:00+01:00",
     "end": "2025-11-18T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -177,7 +191,8 @@
     "docente": "Corvino",
     "start": "2025-11-19T09:30:00+01:00",
     "end": "2025-11-19T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -189,7 +204,8 @@
     "docente": "Corvino",
     "start": "2025-11-19T13:00:00+01:00",
     "end": "2025-11-19T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -201,7 +217,8 @@
     "docente": "Massini",
     "start": "2025-11-20T14:00:00+01:00",
     "end": "2025-11-20T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -213,7 +230,8 @@
     "docente": "Carbone",
     "start": "2025-11-22T14:00:00+01:00",
     "end": "2025-11-22T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -225,7 +243,8 @@
     "docente": "Citi",
     "start": "2025-11-24T10:00:00+01:00",
     "end": "2025-11-24T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -237,7 +256,8 @@
     "docente": "Iannello",
     "start": "2025-11-25T11:30:00+01:00",
     "end": "2025-11-25T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -249,7 +269,8 @@
     "docente": "Corvino",
     "start": "2025-11-26T09:30:00+01:00",
     "end": "2025-11-26T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -261,7 +282,8 @@
     "docente": "Corvino",
     "start": "2025-11-26T13:00:00+01:00",
     "end": "2025-11-26T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -273,7 +295,8 @@
     "docente": "Massini",
     "start": "2025-11-27T14:00:00+01:00",
     "end": "2025-11-27T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -285,7 +308,8 @@
     "docente": "Carbone",
     "start": "2025-11-29T14:00:00+01:00",
     "end": "2025-11-29T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -297,7 +321,8 @@
     "docente": "Citi",
     "start": "2025-12-01T10:00:00+01:00",
     "end": "2025-12-01T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -309,7 +334,8 @@
     "docente": "Iannello",
     "start": "2025-12-02T11:30:00+01:00",
     "end": "2025-12-02T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -321,7 +347,8 @@
     "docente": "Corvino",
     "start": "2025-12-03T09:30:00+01:00",
     "end": "2025-12-03T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -333,7 +360,8 @@
     "docente": "Corvino",
     "start": "2025-12-03T13:00:00+01:00",
     "end": "2025-12-03T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -345,7 +373,8 @@
     "docente": "Massini",
     "start": "2025-12-04T14:00:00+01:00",
     "end": "2025-12-04T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -357,7 +386,8 @@
     "docente": "Carbone",
     "start": "2025-12-06T14:00:00+01:00",
     "end": "2025-12-06T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -369,7 +399,8 @@
     "docente": "Citi",
     "start": "2025-12-08T10:00:00+01:00",
     "end": "2025-12-08T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -381,7 +412,8 @@
     "docente": "Iannello",
     "start": "2025-12-09T11:30:00+01:00",
     "end": "2025-12-09T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -393,7 +425,8 @@
     "docente": "Corvino",
     "start": "2025-12-10T09:30:00+01:00",
     "end": "2025-12-10T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -405,7 +438,8 @@
     "docente": "Corvino",
     "start": "2025-12-10T13:00:00+01:00",
     "end": "2025-12-10T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -417,7 +451,8 @@
     "docente": "Massini",
     "start": "2025-12-11T14:00:00+01:00",
     "end": "2025-12-11T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -429,7 +464,8 @@
     "docente": "Carbone",
     "start": "2025-12-13T14:00:00+01:00",
     "end": "2025-12-13T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -441,7 +477,8 @@
     "docente": "Citi",
     "start": "2025-12-15T10:00:00+01:00",
     "end": "2025-12-15T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -453,7 +490,8 @@
     "docente": "Iannello",
     "start": "2025-12-16T11:30:00+01:00",
     "end": "2025-12-16T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -465,7 +503,8 @@
     "docente": "Corvino",
     "start": "2025-12-17T09:30:00+01:00",
     "end": "2025-12-17T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -477,7 +516,8 @@
     "docente": "Corvino",
     "start": "2025-12-17T13:00:00+01:00",
     "end": "2025-12-17T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -489,7 +529,8 @@
     "docente": "Massini",
     "start": "2025-12-18T14:00:00+01:00",
     "end": "2025-12-18T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -501,7 +542,8 @@
     "docente": "Carbone",
     "start": "2025-12-20T14:00:00+01:00",
     "end": "2025-12-20T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -513,7 +555,8 @@
     "docente": "Citi",
     "start": "2025-12-22T10:00:00+01:00",
     "end": "2025-12-22T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -525,7 +568,8 @@
     "docente": "Iannello",
     "start": "2025-12-23T11:30:00+01:00",
     "end": "2025-12-23T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -537,7 +581,8 @@
     "docente": "Corvino",
     "start": "2025-12-24T09:30:00+01:00",
     "end": "2025-12-24T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -549,7 +594,8 @@
     "docente": "Corvino",
     "start": "2025-12-24T13:00:00+01:00",
     "end": "2025-12-24T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -561,7 +607,8 @@
     "docente": "Massini",
     "start": "2025-12-25T14:00:00+01:00",
     "end": "2025-12-25T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -573,7 +620,8 @@
     "docente": "Carbone",
     "start": "2025-12-27T14:00:00+01:00",
     "end": "2025-12-27T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -585,7 +633,8 @@
     "docente": "Citi",
     "start": "2025-12-29T10:00:00+01:00",
     "end": "2025-12-29T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -597,7 +646,8 @@
     "docente": "Iannello",
     "start": "2025-12-30T11:30:00+01:00",
     "end": "2025-12-30T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -609,7 +659,8 @@
     "docente": "Corvino",
     "start": "2025-12-31T09:30:00+01:00",
     "end": "2025-12-31T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -621,7 +672,8 @@
     "docente": "Corvino",
     "start": "2025-12-31T13:00:00+01:00",
     "end": "2025-12-31T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -633,7 +685,8 @@
     "docente": "Massini",
     "start": "2026-01-01T14:00:00+01:00",
     "end": "2026-01-01T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -645,7 +698,8 @@
     "docente": "Carbone",
     "start": "2026-01-03T14:00:00+01:00",
     "end": "2026-01-03T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -657,7 +711,8 @@
     "docente": "Citi",
     "start": "2026-01-05T10:00:00+01:00",
     "end": "2026-01-05T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -669,7 +724,8 @@
     "docente": "Iannello",
     "start": "2026-01-06T11:30:00+01:00",
     "end": "2026-01-06T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -681,7 +737,8 @@
     "docente": "Corvino",
     "start": "2026-01-07T09:30:00+01:00",
     "end": "2026-01-07T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -693,7 +750,8 @@
     "docente": "Corvino",
     "start": "2026-01-07T13:00:00+01:00",
     "end": "2026-01-07T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -705,7 +763,8 @@
     "docente": "Massini",
     "start": "2026-01-08T14:00:00+01:00",
     "end": "2026-01-08T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -717,7 +776,8 @@
     "docente": "Carbone",
     "start": "2026-01-10T14:00:00+01:00",
     "end": "2026-01-10T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -729,7 +789,8 @@
     "docente": "Citi",
     "start": "2026-01-12T10:00:00+01:00",
     "end": "2026-01-12T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -741,7 +802,8 @@
     "docente": "Iannello",
     "start": "2026-01-13T11:30:00+01:00",
     "end": "2026-01-13T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -753,7 +815,8 @@
     "docente": "Corvino",
     "start": "2026-01-14T09:30:00+01:00",
     "end": "2026-01-14T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -765,7 +828,8 @@
     "docente": "Corvino",
     "start": "2026-01-14T13:00:00+01:00",
     "end": "2026-01-14T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -777,7 +841,8 @@
     "docente": "Massini",
     "start": "2026-01-15T14:00:00+01:00",
     "end": "2026-01-15T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -789,7 +854,8 @@
     "docente": "Carbone",
     "start": "2026-01-17T14:00:00+01:00",
     "end": "2026-01-17T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -801,7 +867,8 @@
     "docente": "Citi",
     "start": "2026-01-19T10:00:00+01:00",
     "end": "2026-01-19T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -813,7 +880,8 @@
     "docente": "Iannello",
     "start": "2026-01-20T11:30:00+01:00",
     "end": "2026-01-20T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -825,7 +893,8 @@
     "docente": "Corvino",
     "start": "2026-01-21T09:30:00+01:00",
     "end": "2026-01-21T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -837,7 +906,8 @@
     "docente": "Corvino",
     "start": "2026-01-21T13:00:00+01:00",
     "end": "2026-01-21T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -849,7 +919,8 @@
     "docente": "Massini",
     "start": "2026-01-22T14:00:00+01:00",
     "end": "2026-01-22T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -861,7 +932,8 @@
     "docente": "Carbone",
     "start": "2026-01-24T14:00:00+01:00",
     "end": "2026-01-24T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -873,7 +945,8 @@
     "docente": "Citi",
     "start": "2026-01-26T10:00:00+01:00",
     "end": "2026-01-26T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -885,7 +958,8 @@
     "docente": "Iannello",
     "start": "2026-01-27T11:30:00+01:00",
     "end": "2026-01-27T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -897,7 +971,8 @@
     "docente": "Corvino",
     "start": "2026-01-28T09:30:00+01:00",
     "end": "2026-01-28T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -909,7 +984,8 @@
     "docente": "Corvino",
     "start": "2026-01-28T13:00:00+01:00",
     "end": "2026-01-28T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -921,7 +997,8 @@
     "docente": "Massini",
     "start": "2026-01-29T14:00:00+01:00",
     "end": "2026-01-29T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -933,7 +1010,8 @@
     "docente": "Carbone",
     "start": "2026-01-31T14:00:00+01:00",
     "end": "2026-01-31T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -945,7 +1023,8 @@
     "docente": "Citi",
     "start": "2026-02-02T10:00:00+01:00",
     "end": "2026-02-02T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Scrittura Creativa",
@@ -957,7 +1036,8 @@
     "docente": "Iannello",
     "start": "2026-02-03T11:30:00+01:00",
     "end": "2026-02-03T13:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -969,7 +1049,8 @@
     "docente": "Corvino",
     "start": "2026-02-04T09:30:00+01:00",
     "end": "2026-02-04T12:30:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -981,7 +1062,8 @@
     "docente": "Corvino",
     "start": "2026-02-04T13:00:00+01:00",
     "end": "2026-02-04T17:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Informatica per la Grafica",
@@ -993,7 +1075,8 @@
     "docente": "Massini",
     "start": "2026-02-05T14:00:00+01:00",
     "end": "2026-02-05T16:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1005,7 +1088,8 @@
     "docente": "Carbone",
     "start": "2026-02-07T14:00:00+01:00",
     "end": "2026-02-07T18:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di Documentazione Audiovisiva",
@@ -1017,6 +1101,7 @@
     "docente": "Citi",
     "start": "2026-02-09T10:00:00+01:00",
     "end": "2026-02-09T13:00:00+01:00",
-    "note": null
+    "note": null,
+    "corsoStudio": "CINEMA"
   }
 ]
