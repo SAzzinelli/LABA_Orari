@@ -2,6 +2,32 @@
   "days": [
     { "date": "2025-02-18", "word": "CREMA" },
     { "date": "2025-02-19", "word": "FORZA" },
-    { "date": "2025-02-20", "word": "SALTO" }
+    { "date": "2025-02-20", "word": "SALTO" },
+    { "date": "2025-02-21", "word": "VIDEO" },
+    { "date": "2025-02-22", "word": "AUDIO" },
+    { "date": "2025-02-23", "word": "SCENA" },
+    { "date": "2025-02-24", "word": "SETUP" },
+    { "date": "2025-02-25", "word": "LENTE" },
+    { "date": "2025-02-26", "word": "OMBRA" },
+    { "date": "2025-02-27", "word": "TRAMA" },
+    { "date": "2025-02-28", "word": "TAGLI" },
+    { "date": "2025-03-01", "word": "STILE" },
+    { "date": "2025-03-02", "word": "TESTO" },
+    { "date": "2025-03-03", "word": "BADIA" },
+    { "date": "2025-03-04", "word": "STUDI" },
+    { "date": "2025-03-05", "word": "PIXEL" },
+    { "date": "2025-03-06", "word": "FRAME" },
+    { "date": "2025-03-07", "word": "RITMO" },
+    { "date": "2025-03-08", "word": "GESTO" },
+    { "date": "2025-03-09", "word": "FOCUS" },
+    { "date": "2025-03-10", "word": "CARTA" },
+    { "date": "2025-03-11", "word": "PENNA" },
+    { "date": "2025-03-12", "word": "COLLA" },
+    { "date": "2025-03-13", "word": "PINZA" },
+    { "date": "2025-03-14", "word": "VETRO" },
+    { "date": "2025-03-15", "word": "SEGNO" },
+    { "date": "2025-03-16", "word": "FONTI" },
+    { "date": "2025-03-17", "word": "PROVA" },
+    { "date": "2025-03-18", "word": "CORPO" }
   ]
 }
